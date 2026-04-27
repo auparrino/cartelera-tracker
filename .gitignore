@@ -1,0 +1,28 @@
+node_modules/
+.next/
+out/
+.vercel/
+.vercel
+.DS_Store
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Cache de XLSX/HTML grandes — se reconstruyen en cada corrida
+data/raw/*.xlsx
+data/raw/*.html
+data/raw/ultracine/
+
+# Snapshots históricos sí van al repo (es la memoria del proyecto)
+!data/snapshots/
+
+# Outputs públicos consumidos por el front sí van al repo
+!public/data/
+
+# Screenshots y snapshots de testing local
+.playwright-mcp/
+*.png
+!public/**/*.png

@@ -1,0 +1,2554 @@
+{
+  "source": "Netflix Tudum (all-weeks-countries.xlsx)",
+  "source_url": "https://www.netflix.com/tudum/top10/data/all-weeks-countries.xlsx",
+  "fetched_at": "2026-04-26",
+  "latest_week": "2026-04-12",
+  "countries_focus": [
+    "Argentina",
+    "Uruguay",
+    "Paraguay",
+    "Chile",
+    "Brazil",
+    "Mexico",
+    "Colombia",
+    "Peru"
+  ],
+  "weeks": [
+    "2026-04-12",
+    "2026-04-05",
+    "2026-03-29",
+    "2026-03-22",
+    "2026-03-15",
+    "2026-03-08",
+    "2026-03-01",
+    "2026-02-22",
+    "2026-02-15",
+    "2026-02-08",
+    "2026-02-01",
+    "2026-01-25",
+    "2026-01-18",
+    "2026-01-11",
+    "2026-01-04",
+    "2025-12-28",
+    "2025-12-21",
+    "2025-12-14",
+    "2025-12-07",
+    "2025-11-30",
+    "2025-11-23",
+    "2025-11-16",
+    "2025-11-09",
+    "2025-11-02",
+    "2025-10-26",
+    "2025-10-19",
+    "2025-10-12",
+    "2025-10-05",
+    "2025-09-28",
+    "2025-09-21",
+    "2025-09-14",
+    "2025-09-07",
+    "2025-08-31",
+    "2025-08-24",
+    "2025-08-17",
+    "2025-08-10",
+    "2025-08-03",
+    "2025-07-27",
+    "2025-07-20",
+    "2025-07-13",
+    "2025-07-06",
+    "2025-06-29",
+    "2025-06-22",
+    "2025-06-15",
+    "2025-06-08",
+    "2025-06-01",
+    "2025-05-25",
+    "2025-05-18",
+    "2025-05-11",
+    "2025-05-04",
+    "2025-04-27",
+    "2025-04-20",
+    "2025-04-13",
+    "2025-04-06",
+    "2025-03-30",
+    "2025-03-23",
+    "2025-03-16",
+    "2025-03-09",
+    "2025-03-02",
+    "2025-02-23",
+    "2025-02-16",
+    "2025-02-09",
+    "2025-02-02",
+    "2025-01-26",
+    "2025-01-19",
+    "2025-01-12",
+    "2025-01-05",
+    "2024-12-29",
+    "2024-12-22",
+    "2024-12-15",
+    "2024-12-08",
+    "2024-12-01",
+    "2024-11-24",
+    "2024-11-17",
+    "2024-11-10",
+    "2024-11-03",
+    "2024-10-27",
+    "2024-10-20",
+    "2024-10-13",
+    "2024-10-06",
+    "2024-09-29",
+    "2024-09-22",
+    "2024-09-15",
+    "2024-09-08",
+    "2024-09-01",
+    "2024-08-25",
+    "2024-08-18",
+    "2024-08-11",
+    "2024-08-04",
+    "2024-07-28",
+    "2024-07-21",
+    "2024-07-14",
+    "2024-07-07",
+    "2024-06-30",
+    "2024-06-23",
+    "2024-06-16",
+    "2024-06-09",
+    "2024-06-02",
+    "2024-05-26",
+    "2024-05-19",
+    "2024-05-12",
+    "2024-05-05",
+    "2024-04-28",
+    "2024-04-21",
+    "2024-04-14",
+    "2024-04-07",
+    "2024-03-31",
+    "2024-03-24",
+    "2024-03-17",
+    "2024-03-10",
+    "2024-03-03",
+    "2024-02-25",
+    "2024-02-18",
+    "2024-02-11",
+    "2024-02-04",
+    "2024-01-28",
+    "2024-01-21",
+    "2024-01-14",
+    "2024-01-07",
+    "2023-12-31",
+    "2023-12-24",
+    "2023-12-17",
+    "2023-12-10",
+    "2023-12-03",
+    "2023-11-26",
+    "2023-11-19",
+    "2023-11-12",
+    "2023-11-05",
+    "2023-10-29",
+    "2023-10-22",
+    "2023-10-15",
+    "2023-10-08",
+    "2023-10-01",
+    "2023-09-24",
+    "2023-09-17",
+    "2023-09-10",
+    "2023-09-03",
+    "2023-08-27",
+    "2023-08-20",
+    "2023-08-13",
+    "2023-08-06",
+    "2023-07-30",
+    "2023-07-23",
+    "2023-07-16",
+    "2023-07-09",
+    "2023-07-02",
+    "2023-06-25",
+    "2023-06-18",
+    "2023-06-11",
+    "2023-06-04",
+    "2023-05-28",
+    "2023-05-21",
+    "2023-05-14",
+    "2023-05-07",
+    "2023-04-30",
+    "2023-04-23",
+    "2023-04-16",
+    "2023-04-09",
+    "2023-04-02",
+    "2023-03-26",
+    "2023-03-19",
+    "2023-03-12",
+    "2023-03-05",
+    "2023-02-26",
+    "2023-02-19",
+    "2023-02-12",
+    "2023-02-05",
+    "2023-01-29",
+    "2023-01-22",
+    "2023-01-15",
+    "2023-01-08",
+    "2023-01-01",
+    "2022-12-25",
+    "2022-12-18",
+    "2022-12-11",
+    "2022-12-04",
+    "2022-11-27",
+    "2022-11-20",
+    "2022-11-13",
+    "2022-11-06",
+    "2022-10-30",
+    "2022-10-23",
+    "2022-10-16",
+    "2022-10-09",
+    "2022-10-02",
+    "2022-09-25",
+    "2022-09-18",
+    "2022-09-11",
+    "2022-09-04",
+    "2022-08-28",
+    "2022-08-21",
+    "2022-08-14",
+    "2022-08-07",
+    "2022-07-31",
+    "2022-07-24",
+    "2022-07-17",
+    "2022-07-10",
+    "2022-07-03",
+    "2022-06-26",
+    "2022-06-19",
+    "2022-06-12",
+    "2022-06-05",
+    "2022-05-29",
+    "2022-05-22",
+    "2022-05-15",
+    "2022-05-08",
+    "2022-05-01",
+    "2022-04-24",
+    "2022-04-17",
+    "2022-04-10",
+    "2022-04-03",
+    "2022-03-27",
+    "2022-03-20",
+    "2022-03-13",
+    "2022-03-06",
+    "2022-02-27",
+    "2022-02-20",
+    "2022-02-13",
+    "2022-02-06",
+    "2022-01-30",
+    "2022-01-23",
+    "2022-01-16",
+    "2022-01-09",
+    "2022-01-02",
+    "2021-12-26",
+    "2021-12-19",
+    "2021-12-12",
+    "2021-12-05",
+    "2021-11-28",
+    "2021-11-21",
+    "2021-11-14",
+    "2021-11-07",
+    "2021-10-31",
+    "2021-10-24",
+    "2021-10-17",
+    "2021-10-10",
+    "2021-10-03",
+    "2021-09-26",
+    "2021-09-19",
+    "2021-09-12",
+    "2021-09-05",
+    "2021-08-29",
+    "2021-08-22",
+    "2021-08-15",
+    "2021-08-08",
+    "2021-08-01",
+    "2021-07-25",
+    "2021-07-18",
+    "2021-07-11",
+    "2021-07-04"
+  ],
+  "by_country_latest": {
+    "Argentina": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "The Giant Falls",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "The Truth and Tragedy of Moriah Wilson",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "40 Acres",
+        "season": null,
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "Gangs of Galicia",
+        "season": "Gangs of Galicia: Season 2",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Ripple",
+        "season": "Ripple: Season 1",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "Detective Hole",
+        "season": "Detective Hole: Season 1",
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "Something Very Bad Is Going to Happen",
+        "season": "Something Very Bad Is Going to Happen: Season 1",
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "Bandi",
+        "season": "Bandi: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Gangs of Galicia",
+        "season": "Gangs of Galicia: Season 1",
+        "weeks_in_top10": 5
+      }
+    ],
+    "Uruguay": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "The Giant Falls",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "The Truth and Tragedy of Moriah Wilson",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "Rebuilding",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "Gangs of Galicia",
+        "season": "Gangs of Galicia: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "Gangs of Galicia",
+        "season": "Gangs of Galicia: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "Ripple",
+        "season": "Ripple: Season 1",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Detective Hole",
+        "season": "Detective Hole: Season 1",
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "DOC",
+        "season": "DOC: Season 1",
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Bandi",
+        "season": "Bandi: Season 1",
+        "weeks_in_top10": 1
+      }
+    ],
+    "Paraguay": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "40 Acres",
+        "season": null,
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "Extraction",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "The Truth and Tragedy of Moriah Wilson",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Danny Go!",
+        "season": "Danny Go!: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 1",
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 1",
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 2",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 2",
+        "weeks_in_top10": 2
+      }
+    ],
+    "Chile": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 10
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "The Truth and Tragedy of Moriah Wilson",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "Smurfs",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "Shall We Dance?",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "Danny Go!",
+        "season": "Danny Go!: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 2",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "Ripple",
+        "season": "Ripple: Season 1",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 1",
+        "weeks_in_top10": 2
+      }
+    ],
+    "Brazil": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "Despicable Me 4",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "Smurfs",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "The Expendables 4",
+        "season": null,
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "The Marksman",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "Danny Go!",
+        "season": "Danny Go!: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Ripple",
+        "season": "Ripple: Season 1",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 2",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Bandi",
+        "season": "Bandi: Season 1",
+        "weeks_in_top10": 1
+      }
+    ],
+    "Mexico": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 17
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "KPop Demon Hunters",
+        "season": null,
+        "weeks_in_top10": 43
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "Smurfs",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "Shrek",
+        "season": null,
+        "weeks_in_top10": 50
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "DOC",
+        "season": "DOC: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Danny Go!",
+        "season": "Danny Go!: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "Raw",
+        "season": "Raw: April 6, 2026",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 2",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 1",
+        "weeks_in_top10": 7
+      }
+    ],
+    "Colombia": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 14
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "40 Acres",
+        "season": null,
+        "weeks_in_top10": 3
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "Smurfs",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "Mudborn",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "Eva Lasting",
+        "season": "Eva Lasting: Season 4",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 1",
+        "weeks_in_top10": 8
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "Trust Me: The False Prophet",
+        "season": "Trust Me: The False Prophet: Season 1",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 2",
+        "weeks_in_top10": 7
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 1",
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 2",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 1",
+        "weeks_in_top10": 4
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Danny Go!",
+        "season": "Danny Go!: Season 1",
+        "weeks_in_top10": 1
+      }
+    ],
+    "Peru": [
+      {
+        "category": "Films",
+        "rank": 1,
+        "title": "Thrash",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 2,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 3,
+        "title": "The Super Mario Bros. Movie",
+        "season": null,
+        "weeks_in_top10": 11
+      },
+      {
+        "category": "Films",
+        "rank": 4,
+        "title": "Striking Distance",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 5,
+        "title": "Eat Pray Bark",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 6,
+        "title": "Sisu",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 7,
+        "title": "Feel My Voice",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 8,
+        "title": "Humint",
+        "season": null,
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "Films",
+        "rank": 9,
+        "title": "Smurfs",
+        "season": null,
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "Films",
+        "rank": 10,
+        "title": "War Machine",
+        "season": null,
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 1,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 3",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 2,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 2",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 3,
+        "title": "Bloodhounds",
+        "season": "Bloodhounds: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 4,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 1",
+        "weeks_in_top10": 6
+      },
+      {
+        "category": "TV",
+        "rank": 5,
+        "title": "XO, Kitty",
+        "season": "XO, Kitty: Season 2",
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "TV",
+        "rank": 6,
+        "title": "DOC",
+        "season": "DOC: Season 1",
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "TV",
+        "rank": 7,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 1",
+        "weeks_in_top10": 2
+      },
+      {
+        "category": "TV",
+        "rank": 8,
+        "title": "ONE PIECE",
+        "season": "ONE PIECE: Season 2",
+        "weeks_in_top10": 5
+      },
+      {
+        "category": "TV",
+        "rank": 9,
+        "title": "Beauty in Black",
+        "season": "Beauty in Black: Season 2",
+        "weeks_in_top10": 1
+      },
+      {
+        "category": "TV",
+        "rank": 10,
+        "title": "Radioactive Emergency",
+        "season": "Radioactive Emergency: Season 1",
+        "weeks_in_top10": 4
+      }
+    ]
+  },
+  "longest_runs": {
+    "Argentina": [
+      {
+        "title": "Pasión de Gavilanes",
+        "category": "TV",
+        "max_weeks": 82
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 39
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 31
+      },
+      {
+        "title": "Yo soy Betty, la fea",
+        "category": "TV",
+        "max_weeks": 31
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 25
+      },
+      {
+        "title": "The Queen of Flow",
+        "category": "TV",
+        "max_weeks": 25
+      },
+      {
+        "title": "Pablo Escobar, el patrón del mal",
+        "category": "TV",
+        "max_weeks": 21
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Another Self",
+        "category": "TV",
+        "max_weeks": 14
+      },
+      {
+        "title": "The Unbroken Voice",
+        "category": "TV",
+        "max_weeks": 14
+      },
+      {
+        "title": "The Secret Life of Pets 2",
+        "category": "Films",
+        "max_weeks": 13
+      },
+      {
+        "title": "Rebelde Way",
+        "category": "TV",
+        "max_weeks": 13
+      },
+      {
+        "title": "Manifest",
+        "category": "TV",
+        "max_weeks": 12
+      }
+    ],
+    "Uruguay": [
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 34
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 28
+      },
+      {
+        "title": "The Queen of Flow",
+        "category": "TV",
+        "max_weeks": 27
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 27
+      },
+      {
+        "title": "Pasión de Gavilanes",
+        "category": "TV",
+        "max_weeks": 25
+      },
+      {
+        "title": "Pablo Escobar, el patrón del mal",
+        "category": "TV",
+        "max_weeks": 17
+      },
+      {
+        "title": "Rebelde Way",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 15
+      },
+      {
+        "title": "Manifest",
+        "category": "TV",
+        "max_weeks": 12
+      },
+      {
+        "title": "Envious",
+        "category": "TV",
+        "max_weeks": 12
+      },
+      {
+        "title": "Wrong Side of the Tracks",
+        "category": "TV",
+        "max_weeks": 12
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 12
+      },
+      {
+        "title": "The Marked Heart",
+        "category": "TV",
+        "max_weeks": 11
+      },
+      {
+        "title": "Another Self",
+        "category": "TV",
+        "max_weeks": 11
+      },
+      {
+        "title": "Bridgerton",
+        "category": "TV",
+        "max_weeks": 11
+      }
+    ],
+    "Paraguay": [
+      {
+        "title": "Pablo Escobar, el patrón del mal",
+        "category": "TV",
+        "max_weeks": 100
+      },
+      {
+        "title": "Pasión de Gavilanes",
+        "category": "TV",
+        "max_weeks": 72
+      },
+      {
+        "title": "Yo soy Betty, la fea",
+        "category": "TV",
+        "max_weeks": 50
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 47
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 39
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 34
+      },
+      {
+        "title": "The Queen of Flow",
+        "category": "TV",
+        "max_weeks": 22
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 19
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 18
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 18
+      },
+      {
+        "title": "La Reina del Sur",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Bridgerton",
+        "category": "TV",
+        "max_weeks": 14
+      },
+      {
+        "title": "Pedro el escamoso",
+        "category": "TV",
+        "max_weeks": 14
+      },
+      {
+        "title": "Criminal Code",
+        "category": "TV",
+        "max_weeks": 14
+      },
+      {
+        "title": "The Secret Life of Pets 2",
+        "category": "Films",
+        "max_weeks": 13
+      }
+    ],
+    "Chile": [
+      {
+        "title": "Pasión de Gavilanes",
+        "category": "TV",
+        "max_weeks": 75
+      },
+      {
+        "title": "Yo soy Betty, la fea",
+        "category": "TV",
+        "max_weeks": 54
+      },
+      {
+        "title": "Pablo Escobar, el patrón del mal",
+        "category": "TV",
+        "max_weeks": 42
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 39
+      },
+      {
+        "title": "Shrek",
+        "category": "Films",
+        "max_weeks": 37
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 35
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 32
+      },
+      {
+        "title": "The Queen of Flow",
+        "category": "TV",
+        "max_weeks": 24
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 21
+      },
+      {
+        "title": "Sing 2",
+        "category": "Films",
+        "max_weeks": 17
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 17
+      },
+      {
+        "title": "Bridgerton",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "La Reina del Sur",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Sing",
+        "category": "Films",
+        "max_weeks": 15
+      }
+    ],
+    "Brazil": [
+      {
+        "title": "Lottie Dottie Chicken",
+        "category": "TV",
+        "max_weeks": 128
+      },
+      {
+        "title": "Chiquititas",
+        "category": "TV",
+        "max_weeks": 93
+      },
+      {
+        "title": "Carrossel",
+        "category": "TV",
+        "max_weeks": 53
+      },
+      {
+        "title": "Carinha de Anjo",
+        "category": "TV",
+        "max_weeks": 42
+      },
+      {
+        "title": "As Aventuras de Poliana",
+        "category": "TV",
+        "max_weeks": 37
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 24
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 23
+      },
+      {
+        "title": "Cúmplices de um Resgate",
+        "category": "TV",
+        "max_weeks": 18
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 18
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 15
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 14
+      },
+      {
+        "title": "Extraordinary Attorney Woo",
+        "category": "TV",
+        "max_weeks": 13
+      },
+      {
+        "title": "Bridgerton",
+        "category": "TV",
+        "max_weeks": 13
+      },
+      {
+        "title": "Paw Patrol: The Movie",
+        "category": "Films",
+        "max_weeks": 11
+      },
+      {
+        "title": "DAN DA DAN",
+        "category": "TV",
+        "max_weeks": 11
+      }
+    ],
+    "Mexico": [
+      {
+        "title": "Yo soy Betty, la fea",
+        "category": "TV",
+        "max_weeks": 54
+      },
+      {
+        "title": "Shrek",
+        "category": "Films",
+        "max_weeks": 50
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 43
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 29
+      },
+      {
+        "title": "Shrek 2",
+        "category": "Films",
+        "max_weeks": 28
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 24
+      },
+      {
+        "title": "Sing",
+        "category": "Films",
+        "max_weeks": 21
+      },
+      {
+        "title": "La Reina del Sur",
+        "category": "TV",
+        "max_weeks": 21
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 20
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 20
+      },
+      {
+        "title": "How the Grinch Stole Christmas",
+        "category": "Films",
+        "max_weeks": 19
+      },
+      {
+        "title": "Sing 2",
+        "category": "Films",
+        "max_weeks": 19
+      },
+      {
+        "title": "Falsa identidad",
+        "category": "TV",
+        "max_weeks": 19
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 18
+      },
+      {
+        "title": "True Beauty",
+        "category": "TV",
+        "max_weeks": 18
+      }
+    ],
+    "Colombia": [
+      {
+        "title": "Pablo Escobar, el patrón del mal",
+        "category": "TV",
+        "max_weeks": 102
+      },
+      {
+        "title": "Yo soy Betty, la fea",
+        "category": "TV",
+        "max_weeks": 54
+      },
+      {
+        "title": "Pasión de Gavilanes",
+        "category": "TV",
+        "max_weeks": 52
+      },
+      {
+        "title": "Newly Rich, Newly Poor",
+        "category": "TV",
+        "max_weeks": 43
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 30
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 29
+      },
+      {
+        "title": "Sin senos sí hay paraíso",
+        "category": "TV",
+        "max_weeks": 24
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 20
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 20
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 19
+      },
+      {
+        "title": "El Cartel",
+        "category": "TV",
+        "max_weeks": 17
+      },
+      {
+        "title": "Bridgerton",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Deadly Sins",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Eva Lasting",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 15
+      }
+    ],
+    "Peru": [
+      {
+        "title": "Pasión de Gavilanes",
+        "category": "TV",
+        "max_weeks": 92
+      },
+      {
+        "title": "Pablo Escobar, el patrón del mal",
+        "category": "TV",
+        "max_weeks": 88
+      },
+      {
+        "title": "Yo soy Betty, la fea",
+        "category": "TV",
+        "max_weeks": 54
+      },
+      {
+        "title": "KPop Demon Hunters",
+        "category": "Films",
+        "max_weeks": 40
+      },
+      {
+        "title": "Til Money Do Us Part",
+        "category": "TV",
+        "max_weeks": 33
+      },
+      {
+        "title": "La Reina del Sur",
+        "category": "TV",
+        "max_weeks": 22
+      },
+      {
+        "title": "Squid Game",
+        "category": "TV",
+        "max_weeks": 21
+      },
+      {
+        "title": "Wednesday",
+        "category": "TV",
+        "max_weeks": 19
+      },
+      {
+        "title": "Café con aroma de mujer",
+        "category": "TV",
+        "max_weeks": 19
+      },
+      {
+        "title": "The Queen of Flow",
+        "category": "TV",
+        "max_weeks": 19
+      },
+      {
+        "title": "True Beauty",
+        "category": "TV",
+        "max_weeks": 18
+      },
+      {
+        "title": "Sing 2",
+        "category": "Films",
+        "max_weeks": 18
+      },
+      {
+        "title": "Stranger Things",
+        "category": "TV",
+        "max_weeks": 17
+      },
+      {
+        "title": "Extraordinary Attorney Woo",
+        "category": "TV",
+        "max_weeks": 16
+      },
+      {
+        "title": "How the Grinch Stole Christmas",
+        "category": "Films",
+        "max_weeks": 14
+      }
+    ]
+  },
+  "title_geography": {
+    "27 Dresses": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 10,
+        "Brazil": 10,
+        "Chile": 7,
+        "Colombia": 7,
+        "Mexico": 9,
+        "Paraguay": 7,
+        "Peru": 7,
+        "Uruguay": 10
+      }
+    },
+    "40 Acres": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 2,
+        "Brazil": 1,
+        "Chile": 1,
+        "Colombia": 1,
+        "Mexico": 1,
+        "Paraguay": 1,
+        "Peru": 1,
+        "Uruguay": 2
+      }
+    },
+    "BTS THE COMEBACK LIVE | ARIRANG": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 3,
+        "Brazil": 3,
+        "Chile": 1,
+        "Colombia": 2,
+        "Mexico": 1,
+        "Paraguay": 1,
+        "Peru": 1,
+        "Uruguay": 6
+      }
+    },
+    "Detective Hole": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Brazil": 3,
+        "Chile": 5,
+        "Colombia": 5,
+        "Mexico": 9,
+        "Paraguay": 4,
+        "Peru": 8,
+        "Uruguay": 1
+      }
+    },
+    "Double Jeopardy": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 5,
+        "Brazil": 5,
+        "Chile": 6,
+        "Colombia": 5,
+        "Mexico": 4,
+        "Paraguay": 6,
+        "Peru": 6,
+        "Uruguay": 4
+      }
+    },
+    "Bloodhounds": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Brazil": 3,
+        "Chile": 2,
+        "Colombia": 3,
+        "Mexico": 2,
+        "Paraguay": 3,
+        "Peru": 2,
+        "Uruguay": 6
+      }
+    },
+    "Thrash": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Brazil": 1,
+        "Chile": 1,
+        "Colombia": 1,
+        "Mexico": 1,
+        "Paraguay": 1,
+        "Peru": 1,
+        "Uruguay": 1
+      }
+    },
+    "XO, Kitty": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 2,
+        "Brazil": 2,
+        "Chile": 1,
+        "Colombia": 1,
+        "Mexico": 1,
+        "Paraguay": 1,
+        "Peru": 1,
+        "Uruguay": 4
+      }
+    },
+    "War Machine": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 3,
+        "Brazil": 2,
+        "Chile": 2,
+        "Colombia": 1,
+        "Mexico": 1,
+        "Paraguay": 2,
+        "Peru": 1,
+        "Uruguay": 3
+      }
+    },
+    "Radioactive Emergency": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Brazil": 1,
+        "Chile": 1,
+        "Colombia": 2,
+        "Mexico": 1,
+        "Paraguay": 1,
+        "Peru": 1,
+        "Uruguay": 1
+      }
+    },
+    "Mission: Impossible - The Final Reckoning": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 6,
+        "Brazil": 3,
+        "Chile": 4,
+        "Colombia": 2,
+        "Mexico": 4,
+        "Paraguay": 3,
+        "Peru": 2,
+        "Uruguay": 6
+      }
+    },
+    "ONE PIECE": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 6,
+        "Brazil": 2,
+        "Chile": 2,
+        "Colombia": 3,
+        "Mexico": 2,
+        "Paraguay": 2,
+        "Peru": 2,
+        "Uruguay": 5
+      }
+    },
+    "Peaky Blinders: The Immortal Man": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Brazil": 1,
+        "Chile": 1,
+        "Colombia": 1,
+        "Mexico": 1,
+        "Paraguay": 1,
+        "Peru": 1,
+        "Uruguay": 1
+      }
+    },
+    "Made in Korea": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 6,
+        "Brazil": 7,
+        "Chile": 4,
+        "Colombia": 6,
+        "Mexico": 8,
+        "Paraguay": 4,
+        "Peru": 2,
+        "Uruguay": 7
+      }
+    },
+    "Knights of the Zodiac": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 5,
+        "Brazil": 4,
+        "Chile": 2,
+        "Colombia": 2,
+        "Mexico": 5,
+        "Paraguay": 2,
+        "Peru": 2,
+        "Uruguay": 6
+      }
+    },
+    "Love & Death": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 2,
+        "Brazil": 6,
+        "Chile": 5,
+        "Colombia": 5,
+        "Mexico": 3,
+        "Paraguay": 5,
+        "Peru": 7,
+        "Uruguay": 2
+      }
+    },
+    "Feel My Voice": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 3,
+        "Brazil": 5,
+        "Chile": 3,
+        "Colombia": 7,
+        "Mexico": 8,
+        "Paraguay": 6,
+        "Peru": 7,
+        "Uruguay": 3
+      }
+    },
+    "Eat Pray Bark": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 3,
+        "Brazil": 7,
+        "Chile": 2,
+        "Colombia": 3,
+        "Mexico": 5,
+        "Paraguay": 4,
+        "Peru": 5,
+        "Uruguay": 3
+      }
+    },
+    "The Red Line": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 6,
+        "Brazil": 5,
+        "Chile": 8,
+        "Colombia": 3,
+        "Mexico": 4,
+        "Paraguay": 4,
+        "Peru": 3,
+        "Uruguay": 5
+      }
+    },
+    "Virgin River": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 5,
+        "Brazil": 4,
+        "Chile": 6,
+        "Colombia": 6,
+        "Mexico": 10,
+        "Paraguay": 8,
+        "Peru": 9,
+        "Uruguay": 4
+      }
+    },
+    "Striking Distance": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 7,
+        "Brazil": 4,
+        "Chile": 5,
+        "Colombia": 6,
+        "Mexico": 3,
+        "Paraguay": 5,
+        "Peru": 4,
+        "Uruguay": 5
+      }
+    },
+    "Sisu": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 5,
+        "Brazil": 6,
+        "Chile": 7,
+        "Colombia": 5,
+        "Mexico": 7,
+        "Paraguay": 2,
+        "Peru": 6,
+        "Uruguay": 7
+      }
+    },
+    "That Night": {
+      "category": "TV",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Brazil": 8,
+        "Chile": 3,
+        "Colombia": 3,
+        "Mexico": 4,
+        "Paraguay": 2,
+        "Peru": 5,
+        "Uruguay": 1
+      }
+    },
+    "Stratton": {
+      "category": "Films",
+      "countries_present": 8,
+      "best_rank_by_country": {
+        "Argentina": 4,
+        "Brazil": 4,
+        "Chile": 5,
+        "Colombia": 3,
+        "Mexico": 5,
+        "Paraguay": 4,
+        "Peru": 3,
+        "Uruguay": 5
+      }
+    },
+    "Something Very Bad Is Going to Happen": {
+      "category": "TV",
+      "countries_present": 7,
+      "best_rank_by_country": {
+        "Argentina": 4,
+        "Brazil": 5,
+        "Chile": 4,
+        "Colombia": 4,
+        "Mexico": 5,
+        "Paraguay": 3,
+        "Uruguay": 3
+      }
+    },
+    "Humint": {
+      "category": "Films",
+      "countries_present": 7,
+      "best_rank_by_country": {
+        "Argentina": 10,
+        "Brazil": 6,
+        "Chile": 7,
+        "Colombia": 6,
+        "Mexico": 10,
+        "Paraguay": 6,
+        "Peru": 5
+      }
+    },
+    "Trust Me: The False Prophet": {
+      "category": "TV",
+      "countries_present": 7,
+      "best_rank_by_country": {
+        "Argentina": 5,
+        "Brazil": 6,
+        "Chile": 3,
+        "Colombia": 5,
+        "Mexico": 3,
+        "Paraguay": 4,
+        "Uruguay": 3
+      }
+    },
+    "The Super Mario Bros. Movie": {
+      "category": "Films",
+      "countries_present": 7,
+      "best_rank_by_country": {
+        "Argentina": 8,
+        "Chile": 6,
+        "Colombia": 4,
+        "Mexico": 2,
+        "Paraguay": 7,
+        "Peru": 3,
+        "Uruguay": 9
+      }
+    },
+    "Big George Foreman: The Miraculous Story of the Once and Future Heavyweight Champion of the World": {
+      "category": "Films",
+      "countries_present": 7,
+      "best_rank_by_country": {
+        "Argentina": 2,
+        "Chile": 3,
+        "Colombia": 4,
+        "Mexico": 2,
+        "Paraguay": 3,
+        "Peru": 4,
+        "Uruguay": 2
+      }
+    },
+    "Boyfriend on Demand": {
+      "category": "TV",
+      "countries_present": 6,
+      "best_rank_by_country": {
+        "Brazil": 9,
+        "Chile": 9,
+        "Colombia": 7,
+        "Mexico": 8,
+        "Paraguay": 9,
+        "Peru": 3
+      }
+    },
+    "DOC": {
+      "category": "TV",
+      "countries_present": 6,
+      "best_rank_by_country": {
+        "Argentina": 8,
+        "Chile": 10,
+        "Mexico": 3,
+        "Paraguay": 9,
+        "Peru": 6,
+        "Uruguay": 8
+      }
+    },
+    "Bridgerton": {
+      "category": "TV",
+      "countries_present": 6,
+      "best_rank_by_country": {
+        "Argentina": 9,
+        "Chile": 10,
+        "Colombia": 9,
+        "Paraguay": 10,
+        "Peru": 10,
+        "Uruguay": 10
+      }
+    },
+    "It Would Be Night in Caracas": {
+      "category": "Films",
+      "countries_present": 6,
+      "best_rank_by_country": {
+        "Argentina": 8,
+        "Chile": 4,
+        "Colombia": 3,
+        "Paraguay": 10,
+        "Peru": 10,
+        "Uruguay": 6
+      }
+    },
+    "The Passion of the Christ": {
+      "category": "Films",
+      "countries_present": 6,
+      "best_rank_by_country": {
+        "Argentina": 8,
+        "Chile": 4,
+        "Colombia": 4,
+        "Mexico": 3,
+        "Paraguay": 3,
+        "Peru": 4
+      }
+    },
+    "Joker: Folie à Deux": {
+      "category": "Films",
+      "countries_present": 6,
+      "best_rank_by_country": {
+        "Argentina": 9,
+        "Brazil": 8,
+        "Colombia": 10,
+        "Mexico": 10,
+        "Paraguay": 9,
+        "Uruguay": 9
+      }
+    },
+    "The Predator of Seville": {
+      "category": "TV",
+      "countries_present": 5,
+      "best_rank_by_country": {
+        "Argentina": 7,
+        "Chile": 8,
+        "Colombia": 10,
+        "Paraguay": 7,
+        "Uruguay": 6
+      }
+    },
+    "Smurfs": {
+      "category": "Films",
+      "countries_present": 5,
+      "best_rank_by_country": {
+        "Brazil": 8,
+        "Chile": 9,
+        "Colombia": 9,
+        "Mexico": 9,
+        "Peru": 9
+      }
+    },
+    "The Giant Falls": {
+      "category": "Films",
+      "countries_present": 5,
+      "best_rank_by_country": {
+        "Argentina": 1,
+        "Chile": 5,
+        "Mexico": 9,
+        "Paraguay": 5,
+        "Uruguay": 1
+      }
+    },
+    "Toriko X One Piece Collaboration Special": {
+      "category": "TV",
+      "countries_present": 5,
+      "best_rank_by_country": {
+        "Brazil": 9,
+        "Chile": 6,
+        "Mexico": 6,
+        "Paraguay": 10,
+        "Peru": 4
+      }
+    },
+    "What Happens in Vegas": {
+      "category": "Films",
+      "countries_present": 5,
+      "best_rank_by_country": {
+        "Chile": 7,
+        "Colombia": 9,
+        "Mexico": 7,
+        "Paraguay": 6,
+        "Peru": 6
+      }
+    }
+  }
+}

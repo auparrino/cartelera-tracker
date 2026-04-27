@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper-noise:
+    radial-gradient(circle at 1px 1px, rgba(26,22,18,0.06) 1px, transparent 0);
+}
+
+html, body {
+  background-color: #F1E6CB;
+  color: #1A1612;
+  /* Subtle paper grain */
+  background-image:
+    radial-gradient(ellipse at 30% 10%, rgba(184,146,58,0.10), transparent 55%),
+    radial-gradient(ellipse at 80% 90%, rgba(92,26,27,0.08), transparent 55%),
+    var(--paper-noise);
+  background-size: auto, auto, 4px 4px;
+}
+
+@layer components {
+  .deco-divider {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    color: #B8923A;
+  }
+  .deco-divider::before,
+  .deco-divider::after {
+    content: "";
+    flex: 1;
+    height: 0;
+    border-top: 1px solid #B8923A;
+    border-bottom: 1px solid #B8923A;
+    height: 4px;
+  }
+
+  .marquee-rule {
+    background:
+      linear-gradient(to right, transparent, #B8923A 10%, #B8923A 90%, transparent),
+      linear-gradient(to right, transparent, #1A1612 10%, #1A1612 90%, transparent);
+    background-size: 100% 1px, 100% 1px;
+    background-position: top, bottom;
+    background-repeat: no-repeat;
+    height: 6px;
+  }
+
+  .double-rule {
+    border-top: 1px solid #1A1612;
+    border-bottom: 1px solid #1A1612;
+    height: 5px;
+    position: relative;
+  }
+  .double-rule::after {
+    content: "";
+    position: absolute;
+    inset: 1px 0;
+    border-top: 1px solid #B8923A;
+  }
+
+  .ornament {
+    color: #B8923A;
+    letter-spacing: 0.4em;
+  }
+
+  .deco-frame {
+    border: 1px solid #1A1612;
+    box-shadow:
+      inset 0 0 0 4px #F1E6CB,
+      inset 0 0 0 5px #B8923A,
+      0 6px 24px -16px rgba(26,22,18,0.4);
+    background-color: #F1E6CB;
+  }
+
+  .vintage-card {
+    background-color: #F4ECD0;
+    border: 1px solid #1A1612;
+    position: relative;
+  }
+  .vintage-card::before {
+    content: "";
+    position: absolute;
+    inset: 4px;
+    border: 1px solid #B8923A;
+    pointer-events: none;
+  }
+
+  .stamp-tag {
+    display: inline-block;
+    padding: 0.15rem 0.55rem;
+    border: 1px solid #5C1A1B;
+    color: #5C1A1B;
+    font-family: var(--font-special-elite), ui-monospace, monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    background:
+      linear-gradient(135deg, transparent 49%, rgba(92,26,27,0.06) 50%, transparent 51%);
+  }
+
+  .num-roman {
+    font-family: var(--font-cinzel), serif;
+    letter-spacing: 0.22em;
+    color: #B8923A;
+  }
+
+  .smallcaps {
+    font-variant: small-caps;
+    letter-spacing: 0.12em;
+  }
+
+  /* Recharts overrides for vintage palette */
+  .recharts-cartesian-axis-tick-value {
+    font-family: var(--font-special-elite), ui-monospace, monospace;
+    fill: #3A332B;
+    font-size: 11px;
+  }
+  .recharts-tooltip-wrapper {
+    outline: none;
+  }
+}
+
+@layer utilities {
+  .text-shadow-stamp {
+    text-shadow: 1px 1px 0 #F1E6CB, 2px 2px 0 #B8923A;
+  }
+  .bg-deco-rays-fixed {
+    background-image: repeating-conic-gradient(
+      from 0deg at 50% 100%,
+      rgba(184,146,58,0.22) 0deg 3deg,
+      transparent 3deg 12deg
+    );
+  }
+}

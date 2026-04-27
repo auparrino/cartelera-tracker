@@ -1,0 +1,4410 @@
+{
+  "movie::Thrash": {
+    "resolved": true,
+    "tmdb_id": 1290417,
+    "kind": "movie",
+    "title": "Thrash",
+    "production_companies": [
+      {
+        "id": 34,
+        "logo_path": "/mtp1fvZbe4H991Ka1HOORl572VH.png",
+        "name": "Sony Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 125055,
+        "logo_path": "/8iY66HqRqdQdwOjoS3sNvokcH9r.png",
+        "name": "Hyperobject Industries",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "release_date": "2026-04-10",
+    "studio": "Sony"
+  },
+  "movie::The Truth and Tragedy of Moriah Wilson": {
+    "resolved": true,
+    "tmdb_id": 1629369,
+    "kind": "movie",
+    "title": "The Truth and Tragedy of Moriah Wilson",
+    "production_companies": [
+      {
+        "id": 161915,
+        "logo_path": null,
+        "name": "PMZ Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 294382,
+        "logo_path": null,
+        "name": "Unreasonable Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "release_date": "2026-03-19",
+    "studio": "Independents"
+  },
+  "movie::Anaconda": {
+    "resolved": true,
+    "tmdb_id": 1234731,
+    "kind": "movie",
+    "title": "Anaconda",
+    "production_companies": [
+      {
+        "id": 134756,
+        "logo_path": "/saCxMqh2hFSbDeojykvP2qc6zNX.png",
+        "name": "Fully Formed Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Terror"
+    ],
+    "release_date": "2025-12-24",
+    "studio": "Sony"
+  },
+  "movie::Striking Distance": {
+    "resolved": true,
+    "tmdb_id": 11074,
+    "kind": "movie",
+    "title": "Striking Distance",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 25087,
+        "logo_path": null,
+        "name": "Arnon Milchan Productions",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Crimen",
+      "Acción",
+      "Misterio",
+      "Suspense"
+    ],
+    "release_date": "1993-09-17",
+    "studio": "Sony"
+  },
+  "movie::Jumanji: Welcome to the Jungle": {
+    "resolved": true,
+    "tmdb_id": 353486,
+    "kind": "movie",
+    "title": "Jumanji: Welcome to the Jungle",
+    "production_companies": [
+      {
+        "id": 53462,
+        "logo_path": "/nx8B3Phlcse02w86RW4CJqzCnfL.png",
+        "name": "Matt Tolmach Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Aventura",
+      "Comedia",
+      "Fantasía",
+      "Acción"
+    ],
+    "release_date": "2017-12-09",
+    "studio": "Sony"
+  },
+  "movie::KPop Demon Hunters": {
+    "resolved": true,
+    "tmdb_id": 803796,
+    "kind": "movie",
+    "title": "KPop Demon Hunters",
+    "production_companies": [
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Fantasía",
+      "Música",
+      "Comedia",
+      "Animación"
+    ],
+    "release_date": "2025-06-20",
+    "studio": "Sony"
+  },
+  "movie::Despicable Me 4": {
+    "resolved": true,
+    "tmdb_id": 519182,
+    "kind": "movie",
+    "title": "Despicable Me 4",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Ciencia ficción"
+    ],
+    "release_date": "2024-06-20",
+    "studio": "Universal/NBC"
+  },
+  "movie::War Machine": {
+    "resolved": true,
+    "tmdb_id": 1265609,
+    "kind": "movie",
+    "title": "War Machine",
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 198785,
+        "logo_path": "/oBnMrmwnlAKcACe5h7Vwmk8m1CC.png",
+        "name": "Hidden Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 224643,
+        "logo_path": null,
+        "name": "Huge Film",
+        "origin_country": "AU"
+      },
+      {
+        "id": 167684,
+        "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+        "name": "Range Media Partners",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Suspense"
+    ],
+    "release_date": "2026-02-12",
+    "studio": "Independents"
+  },
+  "movie::Madagascar": {
+    "resolved": true,
+    "tmdb_id": 953,
+    "kind": "movie",
+    "title": "Madagascar",
+    "production_companies": [
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "release_date": "2005-05-25",
+    "studio": "Universal/NBC"
+  },
+  "movie::Beast (English)": {
+    "resolved": false
+  },
+  "movie::Eat Pray Bark": {
+    "resolved": true,
+    "tmdb_id": 1635276,
+    "kind": "movie",
+    "title": "Eat Pray Bark",
+    "production_companies": [
+      {
+        "id": 99,
+        "logo_path": "/62PhpTy0SrplwjcVgZsZHv0hJS4.png",
+        "name": "OLGA FILM",
+        "origin_country": "DE"
+      }
+    ],
+    "original_language": "de",
+    "genres": [
+      "Comedia"
+    ],
+    "release_date": "2026-04-01",
+    "studio": "Independents"
+  },
+  "movie::Feel My Voice": {
+    "resolved": true,
+    "tmdb_id": 1620551,
+    "kind": "movie",
+    "title": "Feel My Voice",
+    "production_companies": [
+      {
+        "id": 219631,
+        "logo_path": "/2phwt8E7kcmwsiO03vZk9ZWwuDE.png",
+        "name": "Small Forward Productions",
+        "origin_country": "IT"
+      }
+    ],
+    "original_language": "it",
+    "genres": [
+      "Música",
+      "Drama",
+      "Comedia"
+    ],
+    "release_date": "2026-04-03",
+    "studio": "Independents"
+  },
+  "movie::Humint": {
+    "resolved": true,
+    "tmdb_id": 1268127,
+    "kind": "movie",
+    "title": "Humint",
+    "production_companies": [
+      {
+        "id": 12987,
+        "logo_path": "/32ea3CCKrNNO8jZBOcN2tbjPpuf.png",
+        "name": "Filmmaker R&K",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Suspense",
+      "Acción",
+      "Drama"
+    ],
+    "release_date": "2026-02-11",
+    "studio": "Independents"
+  },
+  "movie::Mudborn": {
+    "resolved": true,
+    "tmdb_id": 1526650,
+    "kind": "movie",
+    "title": "Mudborn",
+    "production_companies": [
+      {
+        "id": 165242,
+        "logo_path": null,
+        "name": "Gift Pictures",
+        "origin_country": "TW"
+      }
+    ],
+    "original_language": "zh",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "release_date": "2025-10-09",
+    "studio": "Independents"
+  },
+  "movie::The Giant Falls": {
+    "resolved": true,
+    "tmdb_id": 1487320,
+    "kind": "movie",
+    "title": "The Giant Falls",
+    "production_companies": [
+      {
+        "id": 224809,
+        "logo_path": "/9o5HIZxfby42es6BKzsmUcUS42r.png",
+        "name": "Leyenda Films",
+        "origin_country": "AR"
+      },
+      {
+        "id": 110888,
+        "logo_path": "/ApVEmLRyrJtQxhIesrXXi2EQfOP.png",
+        "name": "Kuarzo Entertainment Argentina",
+        "origin_country": "AR"
+      }
+    ],
+    "original_language": "es",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2026-04-01",
+    "studio": "Independents"
+  },
+  "movie::Vadh 2": {
+    "resolved": true,
+    "tmdb_id": 1595507,
+    "kind": "movie",
+    "title": "Vadh 2",
+    "production_companies": [
+      {
+        "id": 85334,
+        "logo_path": "/l5cbo6KR6aRBoVfhFPzx8z5ndYs.png",
+        "name": "LUV Films",
+        "origin_country": "IN"
+      }
+    ],
+    "original_language": "hi",
+    "genres": [
+      "Crimen",
+      "Drama",
+      "Suspense"
+    ],
+    "release_date": "2026-02-06",
+    "studio": "Independents"
+  },
+  "movie::18th Rose": {
+    "resolved": true,
+    "tmdb_id": 1631917,
+    "kind": "movie",
+    "title": "18th Rose",
+    "production_companies": [
+      {
+        "id": 144346,
+        "logo_path": null,
+        "name": "Clever Minds Inc.",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "tl",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "release_date": "2026-04-09",
+    "studio": "Independents"
+  },
+  "movie::The Red Line": {
+    "resolved": true,
+    "tmdb_id": 8741,
+    "kind": "movie",
+    "title": "The Red Line",
+    "production_companies": [
+      {
+        "id": 711,
+        "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+        "name": "Fox 2000 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11317,
+        "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+        "name": "Phoenix Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 13579,
+        "logo_path": null,
+        "name": "George Stevens Jr. Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 23660,
+        "logo_path": null,
+        "name": "Geisler-Roberdeau Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
+    "release_date": "1998-12-23",
+    "studio": "Independents"
+  },
+  "movie::Mrithyunjay​": {
+    "resolved": true,
+    "tmdb_id": 1428294,
+    "kind": "movie",
+    "title": "Mrithyunjay​",
+    "production_companies": [
+      {
+        "id": 290587,
+        "logo_path": null,
+        "name": "Light Box Media",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "te",
+    "genres": [
+      "Suspense",
+      "Crimen",
+      "Acción"
+    ],
+    "release_date": "2026-03-06",
+    "studio": "Independents"
+  },
+  "movie::It Takes a Village": {
+    "resolved": true,
+    "tmdb_id": 993348,
+    "kind": "movie",
+    "title": "It Takes a Village",
+    "production_companies": [],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Comedia"
+    ],
+    "release_date": "2022-07-30",
+    "studio": "Independents"
+  },
+  "tv::Trust Me: The False Prophet": {
+    "resolved": true,
+    "tmdb_id": 316898,
+    "kind": "tv",
+    "title": "Trust Me: The False Prophet",
+    "production_companies": [
+      {
+        "id": 37385,
+        "logo_path": "/y3FPjH0kunToOvzZyoOnNNBi6TI.png",
+        "name": "Ark Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 6735,
+        "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+        "name": "Participant",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "release_date": "2026-04-08",
+    "studio": "Independents"
+  },
+  "tv::XO, Kitty": {
+    "resolved": true,
+    "tmdb_id": 195670,
+    "kind": "tv",
+    "title": "XO, Kitty",
+    "production_companies": [
+      {
+        "id": 30086,
+        "logo_path": "/74ufhzObVRahcRCbNKRVyxy3BXZ.png",
+        "name": "AwesomenessTV",
+        "origin_country": "US"
+      },
+      {
+        "id": 172977,
+        "logo_path": "/4FOQ0au99xFZw4uCOJekJAp1We.png",
+        "name": "ACE Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 250380,
+        "logo_path": "/zHiac8LvbyJeeF8UeBvMMUYd1AM.png",
+        "name": "Jenny Kissed Me",
+        "origin_country": "US"
+      },
+      {
+        "id": 250381,
+        "logo_path": null,
+        "name": "Purple Pen",
+        "origin_country": "US"
+      },
+      {
+        "id": 270146,
+        "logo_path": "/4r6rIxegOrrVeJwqRxpzNrCRQMD.png",
+        "name": "Paramount Television Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "release_date": "2023-05-18",
+    "studio": "Paramount"
+  },
+  "tv::Danny Go!": {
+    "resolved": true,
+    "tmdb_id": 258124,
+    "kind": "tv",
+    "title": "Danny Go!",
+    "production_companies": [],
+    "original_language": "en",
+    "genres": [
+      "Kids"
+    ],
+    "release_date": "2019-08-21",
+    "studio": "Independents"
+  },
+  "tv::Love on the Spectrum": {
+    "resolved": true,
+    "tmdb_id": 200731,
+    "kind": "tv",
+    "title": "Love on the Spectrum",
+    "production_companies": [
+      {
+        "id": 33438,
+        "logo_path": "/geKQwKBQr4XOHDCmBzWjP3UwVjJ.png",
+        "name": "Northern Pictures",
+        "origin_country": "AU"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental",
+      "Reality"
+    ],
+    "release_date": "2022-05-18",
+    "studio": "Independents"
+  },
+  "tv::Something Very Bad Is Going to Happen": {
+    "resolved": true,
+    "tmdb_id": 259265,
+    "kind": "tv",
+    "title": "Something Very Bad Is Going to Happen",
+    "production_companies": [
+      {
+        "id": 184664,
+        "logo_path": "/4qv40ryAKUzvwptbv13eXUAl1Wm.png",
+        "name": "Upside Down Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 293319,
+        "logo_path": null,
+        "name": "Too Much Blood Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 293320,
+        "logo_path": null,
+        "name": "A Dog's Dream",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_date": "2026-03-26",
+    "studio": "Independents"
+  },
+  "tv::Raw": {
+    "resolved": true,
+    "tmdb_id": 4656,
+    "kind": "tv",
+    "title": "Raw",
+    "production_companies": [
+      {
+        "id": 13651,
+        "logo_path": "/rVJkMs9cSaE1BQoPiDcH6OxmaVZ.png",
+        "name": "WWE Home Video",
+        "origin_country": "US"
+      },
+      {
+        "id": 146598,
+        "logo_path": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+        "name": "World Wrestling Entertainment (WWE)",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Reality"
+    ],
+    "release_date": "1993-01-11",
+    "studio": "Independents"
+  },
+  "tv::The Cleaning Lady": {
+    "resolved": true,
+    "tmdb_id": 125282,
+    "kind": "tv",
+    "title": "The Cleaning Lady",
+    "production_companies": [
+      {
+        "id": 1957,
+        "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+        "name": "Warner Bros. Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 85721,
+        "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
+        "name": "FOX Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 167199,
+        "logo_path": null,
+        "name": "Amore & Vita Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 167934,
+        "logo_path": null,
+        "name": "ShadowDance Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 167935,
+        "logo_path": null,
+        "name": "Laughing Monkeys",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "release_date": "2022-01-03",
+    "studio": "Warner"
+  },
+  "tv::Big Mistakes": {
+    "resolved": true,
+    "tmdb_id": 291506,
+    "kind": "tv",
+    "title": "Big Mistakes",
+    "production_companies": [
+      {
+        "id": 182126,
+        "logo_path": "/eVmfXFe4BRy42AJxKVd48EURKO3.png",
+        "name": "Not a Real Production Company",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Comedia",
+      "Crimen"
+    ],
+    "release_date": "2026-04-09",
+    "studio": "Independents"
+  },
+  "tv::ONE PIECE": {
+    "resolved": true,
+    "tmdb_id": 111110,
+    "kind": "tv",
+    "title": "ONE PIECE",
+    "production_companies": [
+      {
+        "id": 104720,
+        "logo_path": "/465nRotlMZXuB7Mlvh8o8O7BlGF.png",
+        "name": "Tomorrow Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 207514,
+        "logo_path": null,
+        "name": "Kaji Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 773,
+        "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+        "name": "Film Afrika",
+        "origin_country": "ZA"
+      },
+      {
+        "id": 178464,
+        "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+        "name": "Netflix",
+        "origin_country": "US"
+      },
+      {
+        "id": 291801,
+        "logo_path": null,
+        "name": "Boy Detective",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_date": "2023-08-31",
+    "studio": "Netflix Originals"
+  },
+  "tv::Salish & Jordan Matter": {
+    "resolved": true,
+    "tmdb_id": 318906,
+    "kind": "tv",
+    "title": "Salish & Jordan Matter",
+    "production_companies": [],
+    "original_language": "en",
+    "genres": [
+      "Reality",
+      "Kids"
+    ],
+    "release_date": "2026-04-11",
+    "studio": "Independents"
+  },
+  "tv::Bloodhounds": {
+    "resolved": true,
+    "tmdb_id": 312502,
+    "kind": "tv",
+    "title": "Bloodhounds",
+    "production_companies": [],
+    "original_language": "en",
+    "genres": [],
+    "release_date": "1999-01-01",
+    "studio": "Independents"
+  },
+  "tv::Detective Hole": {
+    "resolved": true,
+    "tmdb_id": 249597,
+    "kind": "tv",
+    "title": "Detective Hole",
+    "production_companies": [
+      {
+        "id": 221515,
+        "logo_path": null,
+        "name": "Working Title Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 87455,
+        "logo_path": "/c9sx9cexshcEIyo0u1R3yoGsjzB.png",
+        "name": "Universal International Studios",
+        "origin_country": "GB"
+      },
+      {
+        "id": 245798,
+        "logo_path": null,
+        "name": "Living Daylights Productions",
+        "origin_country": "NO"
+      },
+      {
+        "id": 193169,
+        "logo_path": "/8mlCKXC3Fg0bvVN0fAWja6tG27O.png",
+        "name": "Redpoint Productions",
+        "origin_country": "NO"
+      }
+    ],
+    "original_language": "no",
+    "genres": [
+      "Misterio",
+      "Crimen"
+    ],
+    "release_date": "2026-03-26",
+    "studio": "Independents"
+  },
+  "tv::Sins of Kujo": {
+    "resolved": true,
+    "tmdb_id": 303405,
+    "kind": "tv",
+    "title": "Sins of Kujo",
+    "production_companies": [
+      {
+        "id": 139446,
+        "logo_path": "/4uMH3FFbHgK5dKBiGMXKQCM8ln9.png",
+        "name": "TBS Sparkle",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1393,
+        "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+        "name": "TBS",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "ja",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "release_date": "2026-04-02",
+    "studio": "Independents"
+  },
+  "tv::Gangs of Galicia": {
+    "resolved": true,
+    "tmdb_id": 227042,
+    "kind": "tv",
+    "title": "Gangs of Galicia",
+    "production_companies": [
+      {
+        "id": 7345,
+        "logo_path": "/gB3XmmLmm3W4vpXyziCHHLtYpWN.png",
+        "name": "Vaca Films",
+        "origin_country": "ES"
+      }
+    ],
+    "original_language": "es",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "release_date": "2024-06-21",
+    "studio": "Independents"
+  },
+  "tv::Bandi": {
+    "resolved": true,
+    "tmdb_id": 269161,
+    "kind": "tv",
+    "title": "Bandi",
+    "production_companies": [
+      {
+        "id": 181138,
+        "logo_path": null,
+        "name": "Maui Entertainment",
+        "origin_country": "FR"
+      }
+    ],
+    "original_language": "fr",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2026-04-09",
+    "studio": "Independents"
+  },
+  "tv::Radioactive Emergency": {
+    "resolved": true,
+    "tmdb_id": 292474,
+    "kind": "tv",
+    "title": "Radioactive Emergency",
+    "production_companies": [
+      {
+        "id": 4243,
+        "logo_path": "/1HE2IvZ6DLRHHl7ZCk5tXzzj6jD.png",
+        "name": "Gullane Entretenimento",
+        "origin_country": "BR"
+      }
+    ],
+    "original_language": "pt",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Action & Adventure"
+    ],
+    "release_date": "2026-03-18",
+    "studio": "Independents"
+  },
+  "tv::High Tides": {
+    "resolved": true,
+    "tmdb_id": 203616,
+    "kind": "tv",
+    "title": "High Tides",
+    "production_companies": [
+      {
+        "id": 144320,
+        "logo_path": null,
+        "name": "Dingie",
+        "origin_country": "BE"
+      },
+      {
+        "id": 12025,
+        "logo_path": "/sLVmKLJ2E0KSsfKiIYDjo4v6Y5l.png",
+        "name": "VRT",
+        "origin_country": "BE"
+      }
+    ],
+    "original_language": "nl",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2023-05-12",
+    "studio": "Independents"
+  },
+  "tv::Maamla Legal Hai": {
+    "resolved": true,
+    "tmdb_id": 246483,
+    "kind": "tv",
+    "title": "Maamla Legal Hai",
+    "production_companies": [
+      {
+        "id": 174135,
+        "logo_path": null,
+        "name": "Posham Pa Pictures",
+        "origin_country": "IN"
+      }
+    ],
+    "original_language": "hi",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "release_date": "2024-03-01",
+    "studio": "Independents"
+  },
+  "tv::Phantom Lawyer": {
+    "resolved": true,
+    "tmdb_id": 281010,
+    "kind": "tv",
+    "title": "Phantom Lawyer",
+    "production_companies": [
+      {
+        "id": 83914,
+        "logo_path": "/nFcR2kd7vl5O3TITQs6x39BNo6Y.png",
+        "name": "Studio S",
+        "origin_country": "KR"
+      },
+      {
+        "id": 126844,
+        "logo_path": "/2P8CGfuKPbvmgSJh5437TcrxwJ2.png",
+        "name": "MONGJAKSO",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Comedia"
+    ],
+    "release_date": "2026-03-13",
+    "studio": "Independents"
+  },
+  "tv::Stranger Things": {
+    "resolved": true,
+    "tmdb_id": 66732,
+    "kind": "tv",
+    "title": "Stranger Things",
+    "production_companies": [
+      {
+        "id": 2575,
+        "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+        "name": "21 Laps Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 170090,
+        "logo_path": null,
+        "name": "Monkey Massacre Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 184664,
+        "logo_path": "/4qv40ryAKUzvwptbv13eXUAl1Wm.png",
+        "name": "Upside Down Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Action & Adventure"
+    ],
+    "release_date": "2016-07-15",
+    "studio": "Independents"
+  },
+  "tv::Wednesday": {
+    "resolved": true,
+    "tmdb_id": 119051,
+    "kind": "tv",
+    "title": "Wednesday",
+    "production_companies": [
+      {
+        "id": 2230,
+        "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+        "name": "MGM Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 20356,
+        "logo_path": "/awFYFsOyoG3VttUmWvnhgZgXxxh.png",
+        "name": "Millar Gough Ink",
+        "origin_country": "US"
+      },
+      {
+        "id": 186866,
+        "logo_path": "/crmJkiAcLftaxF3GoQvRHPs7gyv.png",
+        "name": "Toluca Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Misterio",
+      "Comedia"
+    ],
+    "release_date": "2022-11-23",
+    "studio": "Independents"
+  },
+  "tv::Squid Game": {
+    "resolved": true,
+    "tmdb_id": 204082,
+    "kind": "tv",
+    "title": "Squid Game",
+    "production_companies": [
+      {
+        "id": 44577,
+        "logo_path": "/oGw6GC8PmseJtYed3POxDiO1j0p.png",
+        "name": "The Garden Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 112365,
+        "logo_path": "/tNHrNHJeKkPQa9itpccf8e5iaQS.png",
+        "name": "Studio Lambert",
+        "origin_country": "GB"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Reality"
+    ],
+    "release_date": "2023-11-22",
+    "studio": "Independents"
+  },
+  "tv::Bridgerton": {
+    "resolved": true,
+    "tmdb_id": 91239,
+    "kind": "tv",
+    "title": "Bridgerton",
+    "production_companies": [
+      {
+        "id": 34209,
+        "logo_path": "/rYt8Q3nYxyE4YBLmVojvoKvIROv.png",
+        "name": "shondaland",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2020-12-25",
+    "studio": "Independents"
+  },
+  "tv::Ginny & Georgia": {
+    "resolved": true,
+    "tmdb_id": 117581,
+    "kind": "tv",
+    "title": "Ginny & Georgia",
+    "production_companies": [
+      {
+        "id": 149891,
+        "logo_path": "/2VFTrLBlFqDEPKuJgcqKTIQD8Gx.png",
+        "name": "Dynamic Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 265932,
+        "logo_path": null,
+        "name": "Queen Fish Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 182695,
+        "logo_path": null,
+        "name": "Madica",
+        "origin_country": "US"
+      },
+      {
+        "id": 80546,
+        "logo_path": "/v3LljktOnzgjktlgYN8iIfa56Fh.png",
+        "name": "Critical Content",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "release_date": "2021-02-24",
+    "studio": "Independents"
+  },
+  "tv::Bon Appétit, Your Majesty": {
+    "resolved": true,
+    "tmdb_id": 280945,
+    "kind": "tv",
+    "title": "Bon Appétit, Your Majesty",
+    "production_companies": [
+      {
+        "id": 86418,
+        "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+        "name": "Studio Dragon",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Drama",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_date": "2025-08-23",
+    "studio": "Independents"
+  },
+  "tv::HIS & HERS": {
+    "resolved": true,
+    "tmdb_id": 259731,
+    "kind": "tv",
+    "title": "HIS & HERS",
+    "production_companies": [
+      {
+        "id": 181874,
+        "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+        "name": "Fifth Season",
+        "origin_country": "US"
+      },
+      {
+        "id": 83210,
+        "logo_path": "/5aYKTLP4Kw75wOZ9AHIFc1HpkN0.png",
+        "name": "Freckle Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 197821,
+        "logo_path": "/7Di681ml6mBfrWPA8o34cgSdwoe.png",
+        "name": "Viva Maude",
+        "origin_country": "US"
+      },
+      {
+        "id": 286014,
+        "logo_path": null,
+        "name": "Small Wishes",
+        "origin_country": "US"
+      },
+      {
+        "id": 295031,
+        "logo_path": null,
+        "name": "Campout Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 216765,
+        "logo_path": null,
+        "name": "Headhunter Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Misterio"
+    ],
+    "release_date": "2026-01-08",
+    "studio": "Independents"
+  },
+  "tv::UNTAMED": {
+    "resolved": true,
+    "tmdb_id": 248852,
+    "kind": "tv",
+    "title": "UNTAMED",
+    "production_companies": [
+      {
+        "id": 1512,
+        "logo_path": null,
+        "name": "John Wells Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1423,
+        "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+        "name": "Escape Artists",
+        "origin_country": "US"
+      },
+      {
+        "id": 5641,
+        "logo_path": "/9VGjQxS5wRzr1Ihc1xvjQ5r4qez.png",
+        "name": "Bee Holder Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1957,
+        "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+        "name": "Warner Bros. Television",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Misterio",
+      "Drama"
+    ],
+    "release_date": "2025-07-17",
+    "studio": "Warner"
+  },
+  "tv::Monster: The Ed Gein Story": {
+    "resolved": true,
+    "tmdb_id": 286801,
+    "kind": "tv",
+    "title": "Monster: The Ed Gein Story",
+    "production_companies": [
+      {
+        "id": 19328,
+        "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+        "name": "Ryan Murphy Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 182831,
+        "logo_path": null,
+        "name": "Prospect Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Crimen",
+      "Drama"
+    ],
+    "release_date": "2025-10-03",
+    "studio": "Independents"
+  },
+  "tv::Beauty in Black": {
+    "resolved": true,
+    "tmdb_id": 246246,
+    "kind": "tv",
+    "title": "Beauty in Black",
+    "production_companies": [
+      {
+        "id": 3096,
+        "logo_path": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+        "name": "Tyler Perry Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2024-10-24",
+    "studio": "Independents"
+  },
+  "tv::Dynamite Kiss": {
+    "resolved": true,
+    "tmdb_id": 281013,
+    "kind": "tv",
+    "title": "Dynamite Kiss",
+    "production_companies": [
+      {
+        "id": 83914,
+        "logo_path": "/nFcR2kd7vl5O3TITQs6x39BNo6Y.png",
+        "name": "Studio S",
+        "origin_country": "KR"
+      },
+      {
+        "id": 68634,
+        "logo_path": "/men5DE7jHhgKnQyuvhTtw2w5wBe.png",
+        "name": "Samhwa Networks",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "release_date": "2025-11-12",
+    "studio": "Independents"
+  },
+  "tv::You": {
+    "resolved": true,
+    "tmdb_id": 78191,
+    "kind": "tv",
+    "title": "You",
+    "production_companies": [
+      {
+        "id": 27711,
+        "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+        "name": "Berlanti Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 10067,
+        "logo_path": "/p1kZoVNfkVvk7xyJZEposRxcfh8.png",
+        "name": "Alloy Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 1957,
+        "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+        "name": "Warner Bros. Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 18441,
+        "logo_path": "/rJmXT9sgCKG8uSUO1T93kOTfAzm.png",
+        "name": "A+E Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 187028,
+        "logo_path": null,
+        "name": "Man Sewing Dinosaur",
+        "origin_country": ""
+      },
+      {
+        "id": 29347,
+        "logo_path": "/eJjnf008uDj3LZ3Fu8M8FKCkl6N.png",
+        "name": "Warner Horizon Television",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Misterio",
+      "Crimen",
+      "Drama"
+    ],
+    "release_date": "2018-09-09",
+    "studio": "Warner"
+  },
+  "tv::My Life With the Walter Boys": {
+    "resolved": true,
+    "tmdb_id": 199001,
+    "kind": "tv",
+    "title": "My Life With the Walter Boys",
+    "production_companies": [
+      {
+        "id": 213058,
+        "logo_path": "/uVpgKVuP9LXq5xSvRGXGcVdT5cz.png",
+        "name": "iGeneration Studios",
+        "origin_country": "GB"
+      },
+      {
+        "id": 12467,
+        "logo_path": "/qxkYfDP05Rrwu8Msgieq6XbCX4K.png",
+        "name": "Nomadic Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 237898,
+        "logo_path": null,
+        "name": "Sony Pictures Television - International Production",
+        "origin_country": "GB"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2023-12-07",
+    "studio": "Sony"
+  },
+  "tv::The Night Agent": {
+    "resolved": true,
+    "tmdb_id": 129552,
+    "kind": "tv",
+    "title": "The Night Agent",
+    "production_companies": [
+      {
+        "id": 11073,
+        "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+        "name": "Sony Pictures Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 72407,
+        "logo_path": null,
+        "name": "MiddKid Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 121737,
+        "logo_path": null,
+        "name": "Exhibit A",
+        "origin_country": "US"
+      },
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 157736,
+        "logo_path": null,
+        "name": "Sunset Lane Media",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Action & Adventure",
+      "Drama",
+      "Misterio"
+    ],
+    "release_date": "2023-03-23",
+    "studio": "Sony"
+  },
+  "tv::Can This Love Be Translated?": {
+    "resolved": true,
+    "tmdb_id": 229891,
+    "kind": "tv",
+    "title": "Can This Love Be Translated?",
+    "production_companies": [
+      {
+        "id": 232414,
+        "logo_path": null,
+        "name": "TREE studio",
+        "origin_country": "KR"
+      },
+      {
+        "id": 232413,
+        "logo_path": null,
+        "name": "IMAGINUS",
+        "origin_country": "KR"
+      },
+      {
+        "id": 286500,
+        "logo_path": null,
+        "name": "Studio Sot",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "release_date": "2026-01-16",
+    "studio": "Independents"
+  },
+  "tv::Sirens": {
+    "resolved": true,
+    "tmdb_id": 246992,
+    "kind": "tv",
+    "title": "Sirens",
+    "production_companies": [
+      {
+        "id": 221390,
+        "logo_path": null,
+        "name": "Quiet Coyote",
+        "origin_country": "US"
+      },
+      {
+        "id": 82968,
+        "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+        "name": "LuckyChap Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 263116,
+        "logo_path": null,
+        "name": "On the Verge Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "release_date": "2025-05-22",
+    "studio": "Independents"
+  },
+  "tv::The Beast in Me": {
+    "resolved": true,
+    "tmdb_id": 250504,
+    "kind": "tv",
+    "title": "The Beast in Me",
+    "production_companies": [
+      {
+        "id": 65126,
+        "logo_path": null,
+        "name": "Conaco",
+        "origin_country": "US"
+      },
+      {
+        "id": 236166,
+        "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+        "name": "20th Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 10850,
+        "logo_path": null,
+        "name": "Teakwood Lane Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 280449,
+        "logo_path": null,
+        "name": "Overall Production",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "release_date": "2025-11-13",
+    "studio": "Independents"
+  },
+  "tv::Genie, Make a Wish": {
+    "resolved": true,
+    "tmdb_id": 228689,
+    "kind": "tv",
+    "title": "Genie, Make a Wish",
+    "production_companies": [
+      {
+        "id": 36220,
+        "logo_path": "/dl126JiEUyhdLOhoN6thM9vI26B.png",
+        "name": "Hwa&Dam Pictures",
+        "origin_country": "KR"
+      },
+      {
+        "id": 128404,
+        "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+        "name": "CJ ENM",
+        "origin_country": "KR"
+      },
+      {
+        "id": 86418,
+        "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+        "name": "Studio Dragon",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Comedia",
+      "Drama"
+    ],
+    "release_date": "2025-10-03",
+    "studio": "Independents"
+  },
+  "tv::Emily in Paris": {
+    "resolved": true,
+    "tmdb_id": 82596,
+    "kind": "tv",
+    "title": "Emily in Paris",
+    "production_companies": [
+      {
+        "id": 6329,
+        "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+        "name": "MTV Entertainment Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 24021,
+        "logo_path": "/urq2p5ColCf657b5nOmBpBOrjyv.png",
+        "name": "Jax Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 1694,
+        "logo_path": null,
+        "name": "Darren Star Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 270146,
+        "logo_path": "/4r6rIxegOrrVeJwqRxpzNrCRQMD.png",
+        "name": "Paramount Television Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "release_date": "2020-10-02",
+    "studio": "Paramount"
+  },
+  "tv::Run Away": {
+    "resolved": true,
+    "tmdb_id": 244244,
+    "kind": "tv",
+    "title": "Run Away",
+    "production_companies": [
+      {
+        "id": 181339,
+        "logo_path": "/hohpZLahlITzZLzXj3umcf7C3d2.png",
+        "name": "Quay Street Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 208514,
+        "logo_path": "/4CiIJO7QTquUWkw2gyLvRyk0ds2.png",
+        "name": "Final Twist Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Misterio"
+    ],
+    "release_date": "2026-01-01",
+    "studio": "Independents"
+  },
+  "movie::Frankenstein": {
+    "resolved": true,
+    "tmdb_id": 1062722,
+    "kind": "movie",
+    "title": "Frankenstein",
+    "production_companies": [
+      {
+        "id": 101082,
+        "logo_path": "/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png",
+        "name": "Double Dare You",
+        "origin_country": "US"
+      },
+      {
+        "id": 10678,
+        "logo_path": null,
+        "name": "Demilo Films",
+        "origin_country": "CA"
+      },
+      {
+        "id": 279898,
+        "logo_path": null,
+        "name": "Bluegrass 7",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Fantasía",
+      "Terror"
+    ],
+    "release_date": "2025-10-17",
+    "studio": "Independents"
+  },
+  "movie::Happy Gilmore 2": {
+    "resolved": true,
+    "tmdb_id": 1263256,
+    "kind": "movie",
+    "title": "Happy Gilmore 2",
+    "production_companies": [
+      {
+        "id": 878,
+        "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Comedia"
+    ],
+    "release_date": "2025-07-25",
+    "studio": "Independents"
+  },
+  "tv::The Lincoln Lawyer": {
+    "resolved": true,
+    "tmdb_id": 116799,
+    "kind": "tv",
+    "title": "The Lincoln Lawyer",
+    "production_companies": [
+      {
+        "id": 18441,
+        "logo_path": "/rJmXT9sgCKG8uSUO1T93kOTfAzm.png",
+        "name": "A+E Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 55027,
+        "logo_path": "/c4nfaihSe2948dIRYioKIgxGzO1.png",
+        "name": "David E. Kelley Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 103593,
+        "logo_path": null,
+        "name": "Hieronymus Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 239799,
+        "logo_path": null,
+        "name": "Algorithm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 186543,
+        "logo_path": null,
+        "name": "Fineman Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "release_date": "2022-05-13",
+    "studio": "Independents"
+  },
+  "tv::Dept. Q": {
+    "resolved": true,
+    "tmdb_id": 245703,
+    "kind": "tv",
+    "title": "Dept. Q",
+    "production_companies": [
+      {
+        "id": 5340,
+        "logo_path": "/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png",
+        "name": "Left Bank Pictures",
+        "origin_country": "GB"
+      },
+      {
+        "id": 109793,
+        "logo_path": null,
+        "name": "Flitcraft",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Crimen",
+      "Misterio"
+    ],
+    "release_date": "2025-05-29",
+    "studio": "Independents"
+  },
+  "tv::Love Is Blind": {
+    "resolved": true,
+    "tmdb_id": 99353,
+    "kind": "tv",
+    "title": "Love Is Blind",
+    "production_companies": [
+      {
+        "id": 56293,
+        "logo_path": "/tMW4FOx3SiWwEB280VQaOJZIA3z.png",
+        "name": "Kinetic Content",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Reality"
+    ],
+    "release_date": "2020-02-13",
+    "studio": "Independents"
+  },
+  "tv::Unspeakable Sins": {
+    "resolved": true,
+    "tmdb_id": 290276,
+    "kind": "tv",
+    "title": "Unspeakable Sins",
+    "production_companies": [
+      {
+        "id": 256020,
+        "logo_path": null,
+        "name": "Mar Abierto Productions",
+        "origin_country": "MX"
+      }
+    ],
+    "original_language": "es",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "release_date": "2025-07-30",
+    "studio": "Independents"
+  },
+  "movie::The Rip": {
+    "resolved": true,
+    "tmdb_id": 1306368,
+    "kind": "movie",
+    "title": "The Rip",
+    "production_companies": [
+      {
+        "id": 187968,
+        "logo_path": "/xdVAEg1biNrQw5nnMXKswPCRpkq.png",
+        "name": "Artists Equity",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Crimen"
+    ],
+    "release_date": "2026-01-13",
+    "studio": "Independents"
+  },
+  "tv::Sean Combs: The Reckoning": {
+    "resolved": true,
+    "tmdb_id": 255251,
+    "kind": "tv",
+    "title": "Sean Combs: The Reckoning",
+    "production_companies": [
+      {
+        "id": 45147,
+        "logo_path": "/sLv0CvsijmrzpzPCuiNigJp5YHF.png",
+        "name": "G-Unit Film & Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 240001,
+        "logo_path": "/2HaFYgRHYpojRA4dz8Liu8KMLE0.png",
+        "name": "House of NonFiction",
+        "origin_country": "US"
+      },
+      {
+        "id": 65510,
+        "logo_path": "/ozBdvLI9EPYxL5M3Gw08ZVu0Qsh.png",
+        "name": "Texas Crew Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental",
+      "Crimen"
+    ],
+    "release_date": "2025-12-02",
+    "studio": "Independents"
+  },
+  "tv::Beyond the Bar": {
+    "resolved": true,
+    "tmdb_id": 281004,
+    "kind": "tv",
+    "title": "Beyond the Bar",
+    "production_companies": [
+      {
+        "id": 84678,
+        "logo_path": "/8pjrX8L669kQUdCqCCpv3uWOSBC.png",
+        "name": "BA Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 164046,
+        "logo_path": "/q7SpPvg2sJGRMZ5X4ba123eU4Qf.png",
+        "name": "SLL",
+        "origin_country": "KR"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2025-08-02",
+    "studio": "Independents"
+  },
+  "tv::The Waterfront": {
+    "resolved": true,
+    "tmdb_id": 254544,
+    "kind": "tv",
+    "title": "The Waterfront",
+    "production_companies": [
+      {
+        "id": 2180,
+        "logo_path": "/gWKrSLAo06z8IDvP1WemvbvDwtB.png",
+        "name": "Outerbanks Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 26727,
+        "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+        "name": "Universal Television",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Crimen"
+    ],
+    "release_date": "2025-06-19",
+    "studio": "Independents"
+  },
+  "tv::Wayward": {
+    "resolved": true,
+    "tmdb_id": 53425,
+    "kind": "tv",
+    "title": "Wayward",
+    "production_companies": [
+      {
+        "id": 2609,
+        "logo_path": "/ocmrEBfmecJvrbIM4C50vjYWtlq.png",
+        "name": "De Line Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 71189,
+        "logo_path": null,
+        "name": "Storyland",
+        "origin_country": "US"
+      },
+      {
+        "id": 15990,
+        "logo_path": "/5cT4zwHA66uNAr2p3CcBDLddXu2.png",
+        "name": "FX Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12236,
+        "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+        "name": "Blinding Edge Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Misterio",
+      "Sci-Fi & Fantasy"
+    ],
+    "release_date": "2015-05-14",
+    "studio": "Independents"
+  },
+  "movie::STRAW": {
+    "resolved": true,
+    "tmdb_id": 1426776,
+    "kind": "movie",
+    "title": "STRAW",
+    "production_companies": [
+      {
+        "id": 3096,
+        "logo_path": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+        "name": "Tyler Perry Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Suspense",
+      "Drama",
+      "Crimen"
+    ],
+    "release_date": "2025-06-05",
+    "studio": "Independents"
+  },
+  "tv::Ransom Canyon": {
+    "resolved": true,
+    "tmdb_id": 240993,
+    "kind": "tv",
+    "title": "Ransom Canyon",
+    "production_companies": [
+      {
+        "id": 170390,
+        "logo_path": null,
+        "name": "Fezziwig Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 178464,
+        "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+        "name": "Netflix",
+        "origin_country": "US"
+      },
+      {
+        "id": 255485,
+        "logo_path": null,
+        "name": "April Blair's Company",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Western"
+    ],
+    "release_date": "2025-04-17",
+    "studio": "Netflix Originals"
+  },
+  "tv::The Sandman": {
+    "resolved": true,
+    "tmdb_id": 90802,
+    "kind": "tv",
+    "title": "The Sandman",
+    "production_companies": [
+      {
+        "id": 1957,
+        "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+        "name": "Warner Bros. Television",
+        "origin_country": "US"
+      },
+      {
+        "id": 9993,
+        "logo_path": "/53WLa6t6HKBpIEUSmsit29kBUOV.png",
+        "name": "DC Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 179997,
+        "logo_path": null,
+        "name": "Purepop",
+        "origin_country": "US"
+      },
+      {
+        "id": 423,
+        "logo_path": "/uvA6e2O31qaonsbYd8tjvgqmNXh.png",
+        "name": "Phantom Four",
+        "origin_country": "US"
+      },
+      {
+        "id": 90828,
+        "logo_path": null,
+        "name": "The Blank Corporation",
+        "origin_country": "US"
+      },
+      {
+        "id": 429,
+        "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+        "name": "DC",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_date": "2022-08-05",
+    "studio": "Warner"
+  },
+  "tv::Pursuit of Jade": {
+    "resolved": true,
+    "tmdb_id": 279388,
+    "kind": "tv",
+    "title": "Pursuit of Jade",
+    "production_companies": [
+      {
+        "id": 172414,
+        "logo_path": "/fNxBFqWr7eWEgNeBDvvCxsSItXx.png",
+        "name": "iQIYI",
+        "origin_country": "CN"
+      },
+      {
+        "id": 74457,
+        "logo_path": "/mPsCbXC5k20bpKErrbOQd1fG0L7.png",
+        "name": "Tencent Video",
+        "origin_country": "CN"
+      },
+      {
+        "id": 208996,
+        "logo_path": null,
+        "name": "HAOHAN",
+        "origin_country": "CN"
+      }
+    ],
+    "original_language": "zh",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2026-03-06",
+    "studio": "Independents"
+  },
+  "tv::Alice in Borderland": {
+    "resolved": true,
+    "tmdb_id": 110316,
+    "kind": "tv",
+    "title": "Alice in Borderland",
+    "production_companies": [
+      {
+        "id": 12386,
+        "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
+        "name": "Robot Communications",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "ja",
+    "genres": [
+      "Misterio",
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_date": "2020-12-10",
+    "studio": "Independents"
+  },
+  "movie::Sisu": {
+    "resolved": true,
+    "tmdb_id": 1223601,
+    "kind": "movie",
+    "title": "Sisu",
+    "production_companies": [
+      {
+        "id": 177094,
+        "logo_path": null,
+        "name": "Cosmic Snowball",
+        "origin_country": "FI"
+      },
+      {
+        "id": 182028,
+        "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+        "name": "Good Chaos",
+        "origin_country": "GB"
+      },
+      {
+        "id": 62408,
+        "logo_path": null,
+        "name": "Subzero Film Entertainment",
+        "origin_country": "FI"
+      }
+    ],
+    "original_language": "fi",
+    "genres": [
+      "Acción",
+      "Bélica",
+      "Suspense"
+    ],
+    "release_date": "2025-10-21",
+    "studio": "Independents"
+  },
+  "movie::Mission: Impossible - The Final Reckoning": {
+    "resolved": true,
+    "tmdb_id": 575265,
+    "kind": "movie",
+    "title": "Mission: Impossible - The Final Reckoning",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 21777,
+        "logo_path": null,
+        "name": "TC Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Aventura"
+    ],
+    "release_date": "2025-05-17",
+    "studio": "Paramount"
+  },
+  "movie::The Super Mario Bros. Movie": {
+    "resolved": true,
+    "tmdb_id": 502356,
+    "kind": "movie",
+    "title": "The Super Mario Bros. Movie",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "release_date": "2023-04-05",
+    "studio": "Universal/NBC"
+  },
+  "movie::40 Acres": {
+    "resolved": true,
+    "tmdb_id": 1319951,
+    "kind": "movie",
+    "title": "40 Acres",
+    "production_companies": [
+      {
+        "id": 57640,
+        "logo_path": "/efkbjS6rE9wOcpAF8Q9VPlvBde2.png",
+        "name": "Hungry Eyes Media",
+        "origin_country": "CA"
+      },
+      {
+        "id": 258040,
+        "logo_path": null,
+        "name": "4T Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 210518,
+        "logo_path": "/nmUwCJxuVZqiKINx0DXhp7TcfVA.png",
+        "name": "Fela",
+        "origin_country": "CA"
+      },
+      {
+        "id": 258041,
+        "logo_path": null,
+        "name": "Backhome",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Drama",
+      "Ciencia ficción"
+    ],
+    "release_date": "2025-07-02",
+    "studio": "Independents"
+  },
+  "tv::Ripple": {
+    "resolved": true,
+    "tmdb_id": 263346,
+    "kind": "tv",
+    "title": "Ripple",
+    "production_companies": [
+      {
+        "id": 256670,
+        "logo_path": "/oEHYrIm0XPI8MlAOeJ7kXrRc0V.png",
+        "name": "Lionsgate Canada",
+        "origin_country": "CA"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2025-12-03",
+    "studio": "Independents"
+  },
+  "movie::Rebuilding": {
+    "resolved": true,
+    "tmdb_id": 1211442,
+    "kind": "movie",
+    "title": "Rebuilding",
+    "production_companies": [
+      {
+        "id": 207105,
+        "logo_path": null,
+        "name": "Present Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 140543,
+        "logo_path": null,
+        "name": "Cow Hip Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 173947,
+        "logo_path": null,
+        "name": "Dead End Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 173946,
+        "logo_path": "/As69t46gOyxtUzcQ3fdz5XAVzE2.png",
+        "name": "MacPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 191842,
+        "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+        "name": "Spark Features",
+        "origin_country": "US"
+      },
+      {
+        "id": 277169,
+        "logo_path": null,
+        "name": "The Sakana Foundation",
+        "origin_country": "US"
+      },
+      {
+        "id": 149522,
+        "logo_path": "/iFSOhZejd4p6o8me3cCGhfBXC5X.png",
+        "name": "Sons of Rigor Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 204575,
+        "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
+        "name": "Cinema Inutile",
+        "origin_country": "US"
+      },
+      {
+        "id": 12219,
+        "logo_path": "/brOqEF7bpecJ4Jn1EmcRgoJTMZz.png",
+        "name": "Cinereach",
+        "origin_country": "US"
+      },
+      {
+        "id": 169960,
+        "logo_path": "/mPfWxHoW3WB6RuUAZ0388HUUw3j.png",
+        "name": "Fit Via Vi",
+        "origin_country": "US"
+      },
+      {
+        "id": 277252,
+        "logo_path": null,
+        "name": "Crowded Table",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2025-11-14",
+    "studio": "Independents"
+  },
+  "tv::DOC": {
+    "resolved": true,
+    "tmdb_id": 101048,
+    "kind": "tv",
+    "title": "DOC",
+    "production_companies": [
+      {
+        "id": 1082,
+        "logo_path": "/lEvojpyYkqD9W8mIEH5LB1cft2q.png",
+        "name": "Lux Vide",
+        "origin_country": "IT"
+      },
+      {
+        "id": 154744,
+        "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+        "name": "Rai Fiction",
+        "origin_country": "IT"
+      }
+    ],
+    "original_language": "it",
+    "genres": [
+      "Drama",
+      "Action & Adventure"
+    ],
+    "release_date": "2020-03-26",
+    "studio": "Independents"
+  },
+  "movie::Extraction": {
+    "resolved": true,
+    "tmdb_id": 545609,
+    "kind": "movie",
+    "title": "Extraction",
+    "production_companies": [
+      {
+        "id": 106544,
+        "logo_path": "/psd84iF7PTGrKf4yFOStKj8JbAh.png",
+        "name": "AGBO",
+        "origin_country": "US"
+      },
+      {
+        "id": 109172,
+        "logo_path": null,
+        "name": "Thematic Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 92029,
+        "logo_path": null,
+        "name": "TGIM Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Suspense"
+    ],
+    "release_date": "2020-04-23",
+    "studio": "Independents"
+  },
+  "movie::Smurfs": {
+    "resolved": true,
+    "tmdb_id": 936108,
+    "kind": "movie",
+    "title": "Smurfs",
+    "production_companies": [
+      {
+        "id": 24955,
+        "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+        "name": "Paramount Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 95063,
+        "logo_path": null,
+        "name": "Marcy Media",
+        "origin_country": ""
+      },
+      {
+        "id": 152873,
+        "logo_path": "/4OhVzKPHCbDjz6Y21EmdJlKatu1.png",
+        "name": "Peyo Productions",
+        "origin_country": "BE"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 267222,
+        "logo_path": null,
+        "name": "International Motion Picture Studios (IMPS)",
+        "origin_country": ""
+      },
+      {
+        "id": 267223,
+        "logo_path": null,
+        "name": "Lafig Belgium",
+        "origin_country": ""
+      },
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Fantasía"
+    ],
+    "release_date": "2025-06-30",
+    "studio": "Paramount"
+  },
+  "movie::Shall We Dance?": {
+    "resolved": true,
+    "tmdb_id": 4380,
+    "kind": "movie",
+    "title": "Shall We Dance?",
+    "production_companies": [
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 21518,
+        "logo_path": null,
+        "name": "Simon Fields Productions",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Comedia"
+    ],
+    "release_date": "2004-10-15",
+    "studio": "Independents"
+  },
+  "movie::The Expendables 4": {
+    "resolved": true,
+    "tmdb_id": 299054,
+    "kind": "movie",
+    "title": "The Expendables 4",
+    "production_companies": [
+      {
+        "id": 1020,
+        "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+        "name": "Millennium Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 48738,
+        "logo_path": null,
+        "name": "Campbell Grobman Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 74795,
+        "logo_path": "/vcCcVEglw9nVcYeZf6xZzA4s1O3.png",
+        "name": "Nu Boyana Film Studios",
+        "origin_country": "BG"
+      },
+      {
+        "id": 126013,
+        "logo_path": null,
+        "name": "Templeton Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 342,
+        "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+        "name": "Davis Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 221429,
+        "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+        "name": "Media Capital Technologies",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Aventura",
+      "Suspense"
+    ],
+    "release_date": "2023-09-15",
+    "studio": "Independents"
+  },
+  "movie::The Marksman": {
+    "resolved": true,
+    "tmdb_id": 634528,
+    "kind": "movie",
+    "title": "The Marksman",
+    "production_companies": [
+      {
+        "id": 80292,
+        "logo_path": "/2s4EgAlqccfIPvbQPeRfNEBe1e0.png",
+        "name": "Sculptor Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 5357,
+        "logo_path": "/19A0Ilxeh1bWMlyMtMgGzcNBn07.png",
+        "name": "Zero Gravity Management",
+        "origin_country": "US"
+      },
+      {
+        "id": 94694,
+        "logo_path": "/4JM71Cenz8paaUv7sO51ITUcjq9.png",
+        "name": "Cutting Edge Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 145547,
+        "logo_path": null,
+        "name": "Stonehouse Motion Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6626,
+        "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+        "name": "Voltage Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Suspense"
+    ],
+    "release_date": "2021-01-15",
+    "studio": "Independents"
+  },
+  "movie::Shrek": {
+    "resolved": true,
+    "tmdb_id": 808,
+    "kind": "movie",
+    "title": "Shrek",
+    "production_companies": [
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/zcKhWbxFJ4CohZ9dLBMxmOArTVn.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Fantasía",
+      "Aventura",
+      "Familia"
+    ],
+    "release_date": "2001-05-18",
+    "studio": "Universal/NBC"
+  },
+  "tv::Eva Lasting": {
+    "resolved": true,
+    "tmdb_id": 219063,
+    "kind": "tv",
+    "title": "Eva Lasting",
+    "production_companies": [
+      {
+        "id": 2586,
+        "logo_path": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+        "name": "Caracol Televisión",
+        "origin_country": "CO"
+      }
+    ],
+    "original_language": "es",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2023-02-15",
+    "studio": "Independents"
+  },
+  "movie::Jurassic World: Renace": {
+    "resolved": true,
+    "tmdb_id": 1234821,
+    "kind": "movie",
+    "title": "Jurassic World: Renace",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "release_date": "2025-07-01",
+    "studio": "Universal/NBC"
+  },
+  "movie::Otro viernes de locos": {
+    "resolved": true,
+    "tmdb_id": 1125257,
+    "kind": "movie",
+    "title": "Otro viernes de locos",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 128491,
+        "logo_path": null,
+        "name": "Burr! Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 3538,
+        "logo_path": null,
+        "name": "Gunn Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Comedia",
+      "Fantasía",
+      "Familia"
+    ],
+    "release_date": "2025-08-06",
+    "studio": "Disney"
+  },
+  "movie::Homo Argentum": {
+    "resolved": true,
+    "tmdb_id": 1471345,
+    "kind": "movie",
+    "title": "Homo Argentum",
+    "production_companies": [
+      {
+        "id": 22031,
+        "logo_path": null,
+        "name": "Televisión Abierta",
+        "origin_country": "AR"
+      },
+      {
+        "id": 167704,
+        "logo_path": "/eVTzWqrkdybUTGGBFl3gTq0NlRm.png",
+        "name": "Star Original Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 34259,
+        "logo_path": "/qUcQmkCRJA3jjxqZBlJybWRmTsI.png",
+        "name": "Pampa Films",
+        "origin_country": "AR"
+      },
+      {
+        "id": 6458,
+        "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+        "name": "INCAA",
+        "origin_country": "AR"
+      },
+      {
+        "id": 58393,
+        "logo_path": "/k6FTLja7xIF39fTNMXr2KhxbNot.png",
+        "name": "Gloriamundi Producciones",
+        "origin_country": "ES"
+      },
+      {
+        "id": 1591,
+        "logo_path": "/ijgtPNnX17XNLw7eLpX9BJT90Fq.png",
+        "name": "Rhino Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 29202,
+        "logo_path": null,
+        "name": "Blue Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 94396,
+        "logo_path": "/9KrWfyXpJIvtdl1mh3lgmlNnPXD.png",
+        "name": "Dea Film",
+        "origin_country": "IT"
+      }
+    ],
+    "original_language": "es",
+    "genres": [
+      "Comedia"
+    ],
+    "release_date": "2025-08-14",
+    "studio": "Independents"
+  },
+  "movie::El conjuro 4: Últimos ritos": {
+    "resolved": true,
+    "tmdb_id": 1038392,
+    "kind": "movie",
+    "title": "El conjuro 4: Últimos ritos",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 76907,
+        "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror"
+    ],
+    "release_date": "2025-09-03",
+    "studio": "Warner"
+  },
+  "movie::Tron: Ares": {
+    "resolved": true,
+    "tmdb_id": 533533,
+    "kind": "movie",
+    "title": "Tron: Ares",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23791,
+        "logo_path": null,
+        "name": "Sean Bailey Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Acción"
+    ],
+    "release_date": "2025-10-08",
+    "studio": "Disney"
+  },
+  "movie::Teléfono negro 2": {
+    "resolved": true,
+    "tmdb_id": 1197137,
+    "kind": "movie",
+    "title": "Teléfono negro 2",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 162439,
+        "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+        "name": "Crooked Highway",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 89115,
+        "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+        "name": "Divide / Conquer",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "release_date": "2025-10-15",
+    "studio": "Universal/NBC"
+  },
+  "movie::Depredador: Tierras salvajes": {
+    "resolved": true,
+    "tmdb_id": 1242898,
+    "kind": "movie",
+    "title": "Depredador: Tierras salvajes",
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 840,
+        "logo_path": null,
+        "name": "Lawrence Gordon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 185309,
+        "logo_path": null,
+        "name": "Toberoff Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "release_date": "2025-11-05",
+    "studio": "Disney"
+  },
+  "movie::Wicked: Por siempre": {
+    "resolved": true,
+    "tmdb_id": 967941,
+    "kind": "movie",
+    "title": "Wicked: Por siempre",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Fantasía",
+      "Aventura",
+      "Romance"
+    ],
+    "release_date": "2025-11-19",
+    "studio": "Universal/NBC"
+  },
+  "movie::Five nights at Freddy´s 2": {
+    "resolved": true,
+    "tmdb_id": 1228246,
+    "kind": "movie",
+    "title": "Five nights at Freddy´s 2",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 211144,
+        "logo_path": null,
+        "name": "Scott Cawthon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 116736,
+        "logo_path": "/5qSrmPricJH5TKXvfRSmUc7o1wP.png",
+        "name": "Mind Hive Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Suspense"
+    ],
+    "release_date": "2025-12-03",
+    "studio": "Universal/NBC"
+  },
+  "movie::Zootopia 2": {
+    "resolved": true,
+    "tmdb_id": 1084242,
+    "kind": "movie",
+    "title": "Zootopia 2",
+    "production_companies": [
+      {
+        "id": 6125,
+        "logo_path": "/8bH86UPmMP8hlITzXV3XgV9eaAc.png",
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 158526,
+        "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "CA"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Aventura",
+      "Animación",
+      "Comedia",
+      "Familia",
+      "Misterio"
+    ],
+    "release_date": "2025-11-26",
+    "studio": "Disney"
+  },
+  "movie::Avatar: fuego y cenizas": {
+    "resolved": true,
+    "tmdb_id": 83533,
+    "kind": "movie",
+    "title": "Avatar: fuego y cenizas",
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "release_date": "2025-12-17",
+    "studio": "Disney"
+  },
+  "movie::Avatar: Fuego y cenizas": {
+    "resolved": true,
+    "tmdb_id": 83533,
+    "kind": "movie",
+    "title": "Avatar: Fuego y cenizas",
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 574,
+        "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura",
+      "Fantasía"
+    ],
+    "release_date": "2025-12-17",
+    "studio": "Disney"
+  },
+  "movie::Stray Kids: The dominATE Experience": {
+    "resolved": true,
+    "tmdb_id": 1600421,
+    "kind": "movie",
+    "title": "Stray Kids: The dominATE Experience",
+    "production_companies": [
+      {
+        "id": 174897,
+        "logo_path": null,
+        "name": "Universal Pictures Content Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 112299,
+        "logo_path": "/aaiQLAUubyiEkdJkXKLNTT8Kxq.png",
+        "name": "JYP Entertainment",
+        "origin_country": "KR"
+      },
+      {
+        "id": 81368,
+        "logo_path": "/hadEBzUTj8ZzmaC1yh8MrXKXqR5.png",
+        "name": "Live Nation Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "ko",
+    "genres": [
+      "Música",
+      "Documental"
+    ],
+    "release_date": "2026-02-04",
+    "studio": "Universal/NBC"
+  },
+  "movie::La cabra que cambio el juego: Goat": {
+    "resolved": true,
+    "tmdb_id": 1297842,
+    "kind": "movie",
+    "title": "La cabra que cambio el juego: Goat",
+    "production_companies": [
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 120524,
+        "logo_path": "/6G31NBE33avSwnSw9OGiFhCOpkS.png",
+        "name": "Unanimous Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 184287,
+        "logo_path": "/yH5Zbs5SaOiXCazdQwrt00vK9Pj.png",
+        "name": "Modern Magic",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79426,
+        "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+        "name": "MACRO",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Animación",
+      "Comedia",
+      "Familia"
+    ],
+    "release_date": "2026-02-11",
+    "studio": "Sony"
+  },
+  "movie::Scream 7": {
+    "resolved": true,
+    "tmdb_id": 1159559,
+    "kind": "movie",
+    "title": "Scream 7",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 143790,
+        "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+        "name": "Spyglass Media Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 130448,
+        "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+        "name": "Project X Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Misterio",
+      "Crimen"
+    ],
+    "release_date": "2026-02-25",
+    "studio": "Paramount"
+  },
+  "movie::Hoppers": {
+    "resolved": true,
+    "tmdb_id": 1327819,
+    "kind": "movie",
+    "title": "Hoppers",
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Animación",
+      "Familia",
+      "Ciencia ficción",
+      "Comedia",
+      "Aventura"
+    ],
+    "release_date": "2026-03-04",
+    "studio": "Disney"
+  },
+  "movie::Proyecto Fin del mundo": {
+    "resolved": true,
+    "tmdb_id": 687163,
+    "kind": "movie",
+    "title": "Proyecto Fin del mundo",
+    "production_companies": [
+      {
+        "id": 77973,
+        "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 232193,
+        "logo_path": null,
+        "name": "Open Invite Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22842,
+        "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+        "name": "Waypoint Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "release_date": "2026-03-15",
+    "studio": "Independents"
+  },
+  "movie::Super Mario Galaxy: La película": {
+    "resolved": true,
+    "tmdb_id": 1226863,
+    "kind": "movie",
+    "title": "Super Mario Galaxy: La película",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "release_date": "2026-04-01",
+    "studio": "Universal/NBC"
+  },
+  "movie::Super Mario Galaxy": {
+    "resolved": true,
+    "tmdb_id": 1226863,
+    "kind": "movie",
+    "title": "Super Mario Galaxy",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "release_date": "2026-04-01",
+    "studio": "Universal/NBC"
+  },
+  "movie::Michael": {
+    "resolved": true,
+    "tmdb_id": 936075,
+    "kind": "movie",
+    "title": "Michael",
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 3281,
+        "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
+        "name": "GK Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 19222,
+        "logo_path": null,
+        "name": "Optimum Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Música",
+      "Drama"
+    ],
+    "release_date": "2026-04-22",
+    "studio": "Independents"
+  },
+  "movie::The Super Mario Galaxy Movie": {
+    "resolved": true,
+    "tmdb_id": 1226863,
+    "kind": "movie",
+    "title": "The Super Mario Galaxy Movie",
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Familia",
+      "Comedia",
+      "Aventura",
+      "Fantasía",
+      "Animación"
+    ],
+    "release_date": "2026-04-01",
+    "studio": "Universal/NBC"
+  },
+  "movie::Project Hail Mary": {
+    "resolved": true,
+    "tmdb_id": 687163,
+    "kind": "movie",
+    "title": "Project Hail Mary",
+    "production_companies": [
+      {
+        "id": 77973,
+        "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+        "name": "Lord Miller",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 232193,
+        "logo_path": null,
+        "name": "Open Invite Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 22842,
+        "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+        "name": "Waypoint Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Ciencia ficción",
+      "Aventura"
+    ],
+    "release_date": "2026-03-15",
+    "studio": "Independents"
+  },
+  "movie::Lee Cronin's The Mummy": {
+    "resolved": true,
+    "tmdb_id": 1304313,
+    "kind": "movie",
+    "title": "Lee Cronin's The Mummy",
+    "production_companies": [
+      {
+        "id": 76907,
+        "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+        "name": "Atomic Monster",
+        "origin_country": "US"
+      },
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 285968,
+        "logo_path": null,
+        "name": "Wicked/Good",
+        "origin_country": "IE"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Misterio"
+    ],
+    "release_date": "2026-04-15",
+    "studio": "Warner"
+  },
+  "movie::The Drama": {
+    "resolved": true,
+    "tmdb_id": 1325734,
+    "kind": "movie",
+    "title": "The Drama",
+    "production_companies": [
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 123620,
+        "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+        "name": "Square Peg",
+        "origin_country": "US"
+      },
+      {
+        "id": 277538,
+        "logo_path": null,
+        "name": "Dilemma Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Romance",
+      "Comedia",
+      "Drama"
+    ],
+    "release_date": "2026-03-26",
+    "studio": "Independents"
+  },
+  "movie::You, Me & Tuscany": {
+    "resolved": true,
+    "tmdb_id": 1455079,
+    "kind": "movie",
+    "title": "You, Me & Tuscany",
+    "production_companies": [
+      {
+        "id": 49968,
+        "logo_path": "/d74xevT5HfJN1TODKbtm6vNW1wK.png",
+        "name": "Will Packer Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Romance",
+      "Comedia"
+    ],
+    "release_date": "2026-04-09",
+    "studio": "Universal/NBC"
+  },
+  "movie::Over Your Dead Body": {
+    "resolved": true,
+    "tmdb_id": 1390300,
+    "kind": "movie",
+    "title": "Over Your Dead Body",
+    "production_companies": [
+      {
+        "id": 121470,
+        "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+        "name": "87North Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12142,
+        "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+        "name": "XYZ Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 98438,
+        "logo_path": "/cjkuW0QeX3hcUUBkZFFCiYmZvcr.png",
+        "name": "74 Entertainment",
+        "origin_country": "NO"
+      },
+      {
+        "id": 142269,
+        "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+        "name": "IPR.VC",
+        "origin_country": "FI"
+      },
+      {
+        "id": 289751,
+        "logo_path": null,
+        "name": "The Trip Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Comedia",
+      "Acción",
+      "Suspense"
+    ],
+    "release_date": "2026-04-24",
+    "studio": "Independents"
+  },
+  "movie::Mother Mary": {
+    "resolved": true,
+    "tmdb_id": 1102883,
+    "kind": "movie",
+    "title": "Mother Mary",
+    "production_companies": [
+      {
+        "id": 41077,
+        "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+        "name": "A24",
+        "origin_country": "US"
+      },
+      {
+        "id": 20037,
+        "logo_path": "/6W92BtQOutAi9KFp0aeb41RBH95.png",
+        "name": "Augenschein Filmproduktion",
+        "origin_country": "DE"
+      },
+      {
+        "id": 99366,
+        "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+        "name": "Topic Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 14634,
+        "logo_path": "/bAhlRdNpjgsloPOH5mhZiX85gMZ.png",
+        "name": "Sailor Bear",
+        "origin_country": "US"
+      },
+      {
+        "id": 142269,
+        "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+        "name": "IPR.VC",
+        "origin_country": "FI"
+      },
+      {
+        "id": 282920,
+        "logo_path": null,
+        "name": "Homebird Productions",
+        "origin_country": "IE"
+      },
+      {
+        "id": 103376,
+        "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+        "name": "Access Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Música",
+      "Suspense",
+      "Fantasía",
+      "Drama"
+    ],
+    "release_date": "2026-04-16",
+    "studio": "Independents"
+  },
+  "movie::American Youngboy": {
+    "resolved": true,
+    "tmdb_id": 1616429,
+    "kind": "movie",
+    "title": "American Youngboy",
+    "production_companies": [
+      {
+        "id": 183982,
+        "logo_path": "/iZzZhh1vkOGt0tRb3y2CO0C6Gng.png",
+        "name": "Concord Originals",
+        "origin_country": "US"
+      },
+      {
+        "id": 88166,
+        "logo_path": null,
+        "name": "38 Productions",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental",
+      "Música"
+    ],
+    "release_date": "2026-04-22",
+    "studio": "Independents"
+  },
+  "movie::Fuze": {
+    "resolved": true,
+    "tmdb_id": 1242265,
+    "kind": "movie",
+    "title": "Fuze",
+    "production_companies": [
+      {
+        "id": 138743,
+        "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+        "name": "Anton",
+        "origin_country": "GB"
+      },
+      {
+        "id": 53874,
+        "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
+        "name": "Sigma Films",
+        "origin_country": "GB"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Crimen",
+      "Suspense"
+    ],
+    "release_date": "2026-03-23",
+    "studio": "Independents"
+  },
+  "movie::I Swear": {
+    "resolved": true,
+    "tmdb_id": 1317149,
+    "kind": "movie",
+    "title": "I Swear",
+    "production_companies": [
+      {
+        "id": 233928,
+        "logo_path": null,
+        "name": "One Story High",
+        "origin_country": "IE"
+      },
+      {
+        "id": 3130,
+        "logo_path": "/b2blyz6adfykkLdLQId8SNHGfZk.png",
+        "name": "Tempo Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 113521,
+        "logo_path": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+        "name": "StudioCanal UK",
+        "origin_country": "GB"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "release_date": "2025-09-22",
+    "studio": "Independents"
+  },
+  "movie::Desert Warrior": {
+    "resolved": true,
+    "tmdb_id": 898704,
+    "kind": "movie",
+    "title": "Desert Warrior",
+    "production_companies": [
+      {
+        "id": 145428,
+        "logo_path": "/dgUV94AxFEumfIICKEg5UdCCU3k.png",
+        "name": "MBC Studios",
+        "origin_country": "SA"
+      },
+      {
+        "id": 124233,
+        "logo_path": null,
+        "name": "JB Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 110799,
+        "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+        "name": "AGC Studios",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Historia"
+    ],
+    "release_date": "2026-04-23",
+    "studio": "Independents"
+  },
+  "movie::A Great Awakening": {
+    "resolved": true,
+    "tmdb_id": 1341137,
+    "kind": "movie",
+    "title": "A Great Awakening",
+    "production_companies": [
+      {
+        "id": 237696,
+        "logo_path": "/r5MK8jRmgB6dpymDD2AkrqwNbN6.png",
+        "name": "Sight & Sound Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 911,
+        "logo_path": "/bWlWGUKejrUflSFV2aRG4o98p1D.png",
+        "name": "Roadside Attractions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Historia"
+    ],
+    "release_date": "2026-04-03",
+    "studio": "Independents"
+  },
+  "movie::The Christophers": {
+    "resolved": true,
+    "tmdb_id": 1400357,
+    "kind": "movie",
+    "title": "The Christophers",
+    "production_companies": [
+      {
+        "id": 240139,
+        "logo_path": null,
+        "name": "Department M",
+        "origin_country": "US"
+      },
+      {
+        "id": 273562,
+        "logo_path": null,
+        "name": "Butler & Sklar Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Crimen",
+      "Comedia"
+    ],
+    "release_date": "2026-04-10",
+    "studio": "Independents"
+  },
+  "movie::Exit 8": {
+    "resolved": true,
+    "tmdb_id": 1408208,
+    "kind": "movie",
+    "title": "Exit 8",
+    "production_companies": [
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 39804,
+        "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png",
+        "name": "AOI Pro.",
+        "origin_country": "JP"
+      },
+      {
+        "id": 128616,
+        "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
+        "name": "Story",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11849,
+        "logo_path": "/ssKAToULWqC6LJXOJWtd0O3VdV0.png",
+        "name": "Lawson",
+        "origin_country": "JP"
+      },
+      {
+        "id": 270390,
+        "logo_path": null,
+        "name": "Suirinsha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 145105,
+        "logo_path": "/oFUDvCLCRmAXlGqjmwO8CN33ygl.png",
+        "name": "Tohan",
+        "origin_country": "JP"
+      },
+      {
+        "id": 270391,
+        "logo_path": null,
+        "name": "Office Nino",
+        "origin_country": "JP"
+      },
+      {
+        "id": 270392,
+        "logo_path": null,
+        "name": "Metro Ad Agency",
+        "origin_country": "JP"
+      }
+    ],
+    "original_language": "ja",
+    "genres": [
+      "Terror",
+      "Misterio"
+    ],
+    "release_date": "2025-08-28",
+    "studio": "Independents"
+  },
+  "movie::Fight Club 2026 Re-release": {
+    "resolved": false
+  },
+  "movie::Reminders of Him": {
+    "resolved": true,
+    "tmdb_id": 1367642,
+    "kind": "movie",
+    "title": "Reminders of Him",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 241073,
+        "logo_path": null,
+        "name": "Heartbones Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 235046,
+        "logo_path": null,
+        "name": "Little Engine Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "release_date": "2026-03-11",
+    "studio": "Universal/NBC"
+  },
+  "movie::Lorne": {
+    "resolved": true,
+    "tmdb_id": 1634949,
+    "kind": "movie",
+    "title": "Lorne",
+    "production_companies": [
+      {
+        "id": 58637,
+        "logo_path": "/ow51X3ZjwBSE2UeYOF9ya8xfiI9.png",
+        "name": "Tremolo Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental"
+    ],
+    "release_date": "2026-04-17",
+    "studio": "Independents"
+  },
+  "movie::Steal This Story, Please!": {
+    "resolved": true,
+    "tmdb_id": 1492865,
+    "kind": "movie",
+    "title": "Steal This Story, Please!",
+    "production_companies": [
+      {
+        "id": 110594,
+        "logo_path": "/n6IN6QhMcLyr8zwPRz43lF1Y2Ew.png",
+        "name": "Doc Society",
+        "origin_country": "GB"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental"
+    ],
+    "release_date": "2026-04-10",
+    "studio": "Independents"
+  },
+  "movie::Ready or Not 2: Here I Come": {
+    "resolved": true,
+    "tmdb_id": 1266127,
+    "kind": "movie",
+    "title": "Ready or Not 2: Here I Come",
+    "production_companies": [
+      {
+        "id": 127929,
+        "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+        "name": "Searchlight Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 34982,
+        "logo_path": "/uvTmiRZzNfG88dVXi9hQ7eFNirq.png",
+        "name": "Mythology Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 126588,
+        "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+        "name": "Radio Silence",
+        "origin_country": "US"
+      },
+      {
+        "id": 6831,
+        "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+        "name": "Big Indie Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Terror",
+      "Comedia"
+    ],
+    "release_date": "2026-03-19",
+    "studio": "Disney"
+  },
+  "movie::Blue Heron": {
+    "resolved": true,
+    "tmdb_id": 1184941,
+    "kind": "movie",
+    "title": "Blue Heron",
+    "production_companies": [
+      {
+        "id": 116888,
+        "logo_path": null,
+        "name": "Nine Behind Productions",
+        "origin_country": "CA"
+      },
+      {
+        "id": 62358,
+        "logo_path": "/namTJTqWjO2R92SKl8VLcXmhTAp.png",
+        "name": "Boddah",
+        "origin_country": "HU"
+      },
+      {
+        "id": 34777,
+        "logo_path": "/slfGgHfiKJsHjoeAhfLykCflt6h.png",
+        "name": "MEMORY",
+        "origin_country": "US"
+      },
+      {
+        "id": 217122,
+        "logo_path": "/yvL2vLmhuiW8cq5BxCRGTBTuJAN.png",
+        "name": "Tinygiant",
+        "origin_country": "US"
+      },
+      {
+        "id": 274195,
+        "logo_path": "/quPNTR2vXX8FByb70agTvNOJ1T8.png",
+        "name": "Ursa Major",
+        "origin_country": "CA"
+      },
+      {
+        "id": 262205,
+        "logo_path": "/xD0hmiPwYcgHmCXAGKqSx3N3uxu.png",
+        "name": "Simbelle Productions",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2026-03-21",
+    "studio": "Independents"
+  },
+  "movie::Erupcja": {
+    "resolved": true,
+    "tmdb_id": 1337592,
+    "kind": "movie",
+    "title": "Erupcja",
+    "production_companies": [
+      {
+        "id": 264420,
+        "logo_path": null,
+        "name": "Forever Holiday",
+        "origin_country": "US"
+      },
+      {
+        "id": 161546,
+        "logo_path": null,
+        "name": "Spartan Media Acquisitions",
+        "origin_country": "US"
+      },
+      {
+        "id": 231927,
+        "logo_path": null,
+        "name": "bb²",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Comedia"
+    ],
+    "release_date": "2026-04-17",
+    "studio": "Independents"
+  },
+  "movie::The Stranger": {
+    "resolved": true,
+    "tmdb_id": 38166,
+    "kind": "movie",
+    "title": "The Stranger",
+    "production_companies": [
+      {
+        "id": 63875,
+        "logo_path": null,
+        "name": "Intruder Films",
+        "origin_country": ""
+      },
+      {
+        "id": 7587,
+        "logo_path": null,
+        "name": "NGN Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 16554,
+        "logo_path": null,
+        "name": "Nasser Entertainment Group",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Suspense",
+      "Misterio",
+      "Crimen"
+    ],
+    "release_date": "2010-06-01",
+    "studio": "Independents"
+  },
+  "movie::Omaha": {
+    "resolved": true,
+    "tmdb_id": 1233655,
+    "kind": "movie",
+    "title": "Omaha",
+    "production_companies": [
+      {
+        "id": 218821,
+        "logo_path": null,
+        "name": "Monarch Content",
+        "origin_country": "US"
+      },
+      {
+        "id": 35739,
+        "logo_path": "/piFLJ1RW6xlMwtJou4ZxFqciDCK.png",
+        "name": "Kaleidoscope Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 149326,
+        "logo_path": "/hP9R5eLyaKOHbNNFjt4hnWrNDKA.png",
+        "name": "Greenwich Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Familia"
+    ],
+    "release_date": "2025-11-22",
+    "studio": "Independents"
+  },
+  "movie::Mad Bills to Pay: (or Destiny, dile que no soy malo)": {
+    "resolved": true,
+    "tmdb_id": 1400756,
+    "kind": "movie",
+    "title": "Mad Bills to Pay: (or Destiny, dile que no soy malo)",
+    "production_companies": [
+      {
+        "id": 1422,
+        "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+        "name": "Killer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 191842,
+        "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+        "name": "Spark Features",
+        "origin_country": "US"
+      },
+      {
+        "id": 247983,
+        "logo_path": "/tMKpbALsac7iNAT9KmeczAut4Tu.png",
+        "name": "Watermark Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 251984,
+        "logo_path": null,
+        "name": "Perpetuum Films",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2026-04-17",
+    "studio": "Independents"
+  },
+  "movie::Miroirs No. 3": {
+    "resolved": true,
+    "tmdb_id": 1178602,
+    "kind": "movie",
+    "title": "Miroirs No. 3",
+    "production_companies": [
+      {
+        "id": 138,
+        "logo_path": null,
+        "name": "Schramm Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 11237,
+        "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+        "name": "ZDF/Arte",
+        "origin_country": "DE"
+      }
+    ],
+    "original_language": "de",
+    "genres": [
+      "Drama"
+    ],
+    "release_date": "2025-08-27",
+    "studio": "Independents"
+  },
+  "movie::Natchez": {
+    "resolved": true,
+    "tmdb_id": 952399,
+    "kind": "movie",
+    "title": "Natchez",
+    "production_companies": [
+      {
+        "id": 4898,
+        "logo_path": "/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png",
+        "name": "CBS",
+        "origin_country": "US"
+      },
+      {
+        "id": 12375,
+        "logo_path": null,
+        "name": "Filmaster Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 12551,
+        "logo_path": null,
+        "name": "Screen Gems Television",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Drama",
+      "Película de TV"
+    ],
+    "release_date": "1958-05-29",
+    "studio": "Sony"
+  },
+  "movie::Kontinental '25": {
+    "resolved": true,
+    "tmdb_id": 1410189,
+    "kind": "movie",
+    "title": "Kontinental '25",
+    "production_companies": [
+      {
+        "id": 160354,
+        "logo_path": "/3ovcWE5WiyUYSYHZQvNRIfQD5od.png",
+        "name": "Saga Film",
+        "origin_country": "RO"
+      },
+      {
+        "id": 30666,
+        "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+        "name": "RT Features",
+        "origin_country": "BR"
+      },
+      {
+        "id": 7970,
+        "logo_path": "/so1bsD7PbaSsFio7gVyW0M3qhsc.png",
+        "name": "Bord Cadre Films",
+        "origin_country": "CH"
+      },
+      {
+        "id": 47416,
+        "logo_path": "/1SGwPd5snC2OHk4vW8w3m6ET6jc.png",
+        "name": "Sovereign Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 19437,
+        "logo_path": "/1VqbDOThEcmDR6gn7et7cAs4lwr.png",
+        "name": "Paul Thiltges Distributions",
+        "origin_country": "LU"
+      }
+    ],
+    "original_language": "ro",
+    "genres": [
+      "Comedia",
+      "Drama"
+    ],
+    "release_date": "2025-09-24",
+    "studio": "Independents"
+  },
+  "movie::John Lilly and the Earth Coincidence Control Office": {
+    "resolved": true,
+    "tmdb_id": 1220334,
+    "kind": "movie",
+    "title": "John Lilly and the Earth Coincidence Control Office",
+    "production_companies": [
+      {
+        "id": 143053,
+        "logo_path": null,
+        "name": "The Alfred P. Sloan Foundation Production Grant",
+        "origin_country": ""
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Documental"
+    ],
+    "release_date": "2025-01-31",
+    "studio": "Independents"
+  }
+}

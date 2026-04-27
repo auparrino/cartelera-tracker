@@ -1,0 +1,1252 @@
+{
+  "source": "Netflix Tudum (all-weeks-global.xlsx)",
+  "source_url": "https://www.netflix.com/tudum/top10/data/all-weeks-global.xlsx",
+  "fetched_at": "2026-04-26",
+  "latest_week": "2026-04-12",
+  "latest_top10": [
+    {
+      "category": "Films (English)",
+      "rank": 1,
+      "title": "Thrash",
+      "season": null,
+      "hours_viewed": 54000000,
+      "views": 37700000,
+      "runtime_hours": 1.4333,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (English)",
+      "rank": 2,
+      "title": "The Truth and Tragedy of Moriah Wilson",
+      "season": null,
+      "hours_viewed": 11900000,
+      "views": 7300000,
+      "runtime_hours": 1.6333,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "Films (English)",
+      "rank": 3,
+      "title": "Anaconda",
+      "season": null,
+      "hours_viewed": 11500000,
+      "views": 7000000,
+      "runtime_hours": 1.65,
+      "weeks_in_top10": 3
+    },
+    {
+      "category": "Films (English)",
+      "rank": 4,
+      "title": "Striking Distance",
+      "season": null,
+      "hours_viewed": 10000000,
+      "views": 5900000,
+      "runtime_hours": 1.7,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (English)",
+      "rank": 5,
+      "title": "Jumanji: Welcome to the Jungle",
+      "season": null,
+      "hours_viewed": 9900000,
+      "views": 5000000,
+      "runtime_hours": 1.9833,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (English)",
+      "rank": 6,
+      "title": "KPop Demon Hunters",
+      "season": null,
+      "hours_viewed": 8000000,
+      "views": 4800000,
+      "runtime_hours": 1.6667,
+      "weeks_in_top10": 43
+    },
+    {
+      "category": "Films (English)",
+      "rank": 7,
+      "title": "Despicable Me 4",
+      "season": null,
+      "hours_viewed": 6300000,
+      "views": 4000000,
+      "runtime_hours": 1.5667,
+      "weeks_in_top10": 11
+    },
+    {
+      "category": "Films (English)",
+      "rank": 8,
+      "title": "War Machine",
+      "season": null,
+      "hours_viewed": 6600000,
+      "views": 3600000,
+      "runtime_hours": 1.8167,
+      "weeks_in_top10": 6
+    },
+    {
+      "category": "Films (English)",
+      "rank": 9,
+      "title": "Madagascar",
+      "season": null,
+      "hours_viewed": 5200000,
+      "views": 3600000,
+      "runtime_hours": 1.4333,
+      "weeks_in_top10": 6
+    },
+    {
+      "category": "Films (English)",
+      "rank": 10,
+      "title": "Beast (English)",
+      "season": null,
+      "hours_viewed": 5000000,
+      "views": 3200000,
+      "runtime_hours": 1.55,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 1,
+      "title": "Eat Pray Bark",
+      "season": null,
+      "hours_viewed": 9600000,
+      "views": 6300000,
+      "runtime_hours": 1.5333,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 2,
+      "title": "Feel My Voice",
+      "season": null,
+      "hours_viewed": 11000000,
+      "views": 6200000,
+      "runtime_hours": 1.7667,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 3,
+      "title": "Humint",
+      "season": null,
+      "hours_viewed": 9800000,
+      "views": 4900000,
+      "runtime_hours": 1.9833,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 4,
+      "title": "Mudborn",
+      "season": null,
+      "hours_viewed": 4800000,
+      "views": 2600000,
+      "runtime_hours": 1.85,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 5,
+      "title": "The Giant Falls",
+      "season": null,
+      "hours_viewed": 3800000,
+      "views": 2200000,
+      "runtime_hours": 1.7,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 6,
+      "title": "Vadh 2",
+      "season": null,
+      "hours_viewed": 4100000,
+      "views": 1900000,
+      "runtime_hours": 2.15,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 7,
+      "title": "18th Rose",
+      "season": null,
+      "hours_viewed": 3700000,
+      "views": 1700000,
+      "runtime_hours": 2.2,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 8,
+      "title": "The Red Line",
+      "season": null,
+      "hours_viewed": 3600000,
+      "views": 1600000,
+      "runtime_hours": 2.2833,
+      "weeks_in_top10": 3
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 9,
+      "title": "Mrithyunjay​",
+      "season": null,
+      "hours_viewed": 3100000,
+      "views": 1600000,
+      "runtime_hours": 2.0,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "Films (Non-English)",
+      "rank": 10,
+      "title": "It Takes a Village",
+      "season": null,
+      "hours_viewed": 2400000,
+      "views": 1500000,
+      "runtime_hours": 1.6167,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "TV (English)",
+      "rank": 1,
+      "title": "Trust Me: The False Prophet",
+      "season": "Trust Me: The False Prophet: Season 1",
+      "hours_viewed": 32100000,
+      "views": 9800000,
+      "runtime_hours": 3.2833,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (English)",
+      "rank": 2,
+      "title": "XO, Kitty",
+      "season": "XO, Kitty: Season 3",
+      "hours_viewed": 34000000,
+      "views": 7800000,
+      "runtime_hours": 4.3333,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "TV (English)",
+      "rank": 3,
+      "title": "Danny Go!",
+      "season": "Danny Go!: Season 1",
+      "hours_viewed": 10800000,
+      "views": 5300000,
+      "runtime_hours": 2.0333,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (English)",
+      "rank": 4,
+      "title": "Love on the Spectrum",
+      "season": "Love on the Spectrum: Season 4",
+      "hours_viewed": 20600000,
+      "views": 3500000,
+      "runtime_hours": 5.95,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "TV (English)",
+      "rank": 5,
+      "title": "Something Very Bad Is Going to Happen",
+      "season": "Something Very Bad Is Going to Happen: Season 1",
+      "hours_viewed": 19700000,
+      "views": 3100000,
+      "runtime_hours": 6.35,
+      "weeks_in_top10": 3
+    },
+    {
+      "category": "TV (English)",
+      "rank": 6,
+      "title": "Raw",
+      "season": "Raw: April 6, 2026",
+      "hours_viewed": 5500000,
+      "views": 2900000,
+      "runtime_hours": 1.7667,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (English)",
+      "rank": 7,
+      "title": "The Cleaning Lady",
+      "season": "The Cleaning Lady: Season 1",
+      "hours_viewed": 20200000,
+      "views": 2800000,
+      "runtime_hours": 7.2667,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (English)",
+      "rank": 8,
+      "title": "Big Mistakes",
+      "season": "Big Mistakes: Season 1",
+      "hours_viewed": 12200000,
+      "views": 2700000,
+      "runtime_hours": 4.45,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (English)",
+      "rank": 9,
+      "title": "ONE PIECE",
+      "season": "ONE PIECE: Season 2",
+      "hours_viewed": 18200000,
+      "views": 2200000,
+      "runtime_hours": 8.1,
+      "weeks_in_top10": 5
+    },
+    {
+      "category": "TV (English)",
+      "rank": 10,
+      "title": "Salish & Jordan Matter",
+      "season": "Salish & Jordan Matter: Season 1",
+      "hours_viewed": 7400000,
+      "views": 2100000,
+      "runtime_hours": 3.5333,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 1,
+      "title": "Bloodhounds",
+      "season": "Bloodhounds: Season 2",
+      "hours_viewed": 51400000,
+      "views": 7400000,
+      "runtime_hours": 6.9667,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 2,
+      "title": "Detective Hole",
+      "season": "Detective Hole: Season 1",
+      "hours_viewed": 22200000,
+      "views": 3000000,
+      "runtime_hours": 7.4,
+      "weeks_in_top10": 3
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 3,
+      "title": "Bloodhounds",
+      "season": "Bloodhounds: Season 1",
+      "hours_viewed": 24000000,
+      "views": 3000000,
+      "runtime_hours": 8.1333,
+      "weeks_in_top10": 7
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 4,
+      "title": "Sins of Kujo",
+      "season": "Sins of Kujo: Season 1",
+      "hours_viewed": 16400000,
+      "views": 2200000,
+      "runtime_hours": 7.4667,
+      "weeks_in_top10": 2
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 5,
+      "title": "Gangs of Galicia",
+      "season": "Gangs of Galicia: Season 2",
+      "hours_viewed": 9900000,
+      "views": 2100000,
+      "runtime_hours": 4.7167,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 6,
+      "title": "Bandi",
+      "season": "Bandi: Season 1",
+      "hours_viewed": 16200000,
+      "views": 2100000,
+      "runtime_hours": 7.8,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 7,
+      "title": "Radioactive Emergency",
+      "season": "Radioactive Emergency: Season 1",
+      "hours_viewed": 10500000,
+      "views": 2000000,
+      "runtime_hours": 5.1333,
+      "weeks_in_top10": 4
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 8,
+      "title": "High Tides",
+      "season": "High Tides: Season 3",
+      "hours_viewed": 6300000,
+      "views": 1600000,
+      "runtime_hours": 3.8667,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 9,
+      "title": "Maamla Legal Hai",
+      "season": "Maamla Legal Hai: Season 2",
+      "hours_viewed": 7900000,
+      "views": 1600000,
+      "runtime_hours": 4.8833,
+      "weeks_in_top10": 1
+    },
+    {
+      "category": "TV (Non-English)",
+      "rank": 10,
+      "title": "Phantom Lawyer",
+      "season": "Phantom Lawyer: Season 1",
+      "hours_viewed": 16600000,
+      "views": 1500000,
+      "runtime_hours": 10.8833,
+      "weeks_in_top10": 5
+    }
+  ],
+  "rolling_26w_by_category": [
+    {
+      "week": "2025-10-19",
+      "category": "Films (English)",
+      "hours_viewed": 149000000
+    },
+    {
+      "week": "2025-10-19",
+      "category": "Films (Non-English)",
+      "hours_viewed": 82500000
+    },
+    {
+      "week": "2025-10-19",
+      "category": "TV (English)",
+      "hours_viewed": 257300000
+    },
+    {
+      "week": "2025-10-19",
+      "category": "TV (Non-English)",
+      "hours_viewed": 218000000
+    },
+    {
+      "week": "2025-10-26",
+      "category": "Films (English)",
+      "hours_viewed": 162300000
+    },
+    {
+      "week": "2025-10-26",
+      "category": "Films (Non-English)",
+      "hours_viewed": 79200000
+    },
+    {
+      "week": "2025-10-26",
+      "category": "TV (English)",
+      "hours_viewed": 204800000
+    },
+    {
+      "week": "2025-10-26",
+      "category": "TV (Non-English)",
+      "hours_viewed": 162400000
+    },
+    {
+      "week": "2025-11-02",
+      "category": "Films (English)",
+      "hours_viewed": 151700000
+    },
+    {
+      "week": "2025-11-02",
+      "category": "Films (Non-English)",
+      "hours_viewed": 60500000
+    },
+    {
+      "week": "2025-11-02",
+      "category": "TV (English)",
+      "hours_viewed": 214800000
+    },
+    {
+      "week": "2025-11-02",
+      "category": "TV (Non-English)",
+      "hours_viewed": 196600000
+    },
+    {
+      "week": "2025-11-09",
+      "category": "Films (English)",
+      "hours_viewed": 163800000
+    },
+    {
+      "week": "2025-11-09",
+      "category": "Films (Non-English)",
+      "hours_viewed": 47400000
+    },
+    {
+      "week": "2025-11-09",
+      "category": "TV (English)",
+      "hours_viewed": 182400000
+    },
+    {
+      "week": "2025-11-09",
+      "category": "TV (Non-English)",
+      "hours_viewed": 194700000
+    },
+    {
+      "week": "2025-11-16",
+      "category": "Films (English)",
+      "hours_viewed": 191400000
+    },
+    {
+      "week": "2025-11-16",
+      "category": "Films (Non-English)",
+      "hours_viewed": 59800000
+    },
+    {
+      "week": "2025-11-16",
+      "category": "TV (English)",
+      "hours_viewed": 199100000
+    },
+    {
+      "week": "2025-11-16",
+      "category": "TV (Non-English)",
+      "hours_viewed": 215000000
+    },
+    {
+      "week": "2025-11-23",
+      "category": "Films (English)",
+      "hours_viewed": 181700000
+    },
+    {
+      "week": "2025-11-23",
+      "category": "Films (Non-English)",
+      "hours_viewed": 42400000
+    },
+    {
+      "week": "2025-11-23",
+      "category": "TV (English)",
+      "hours_viewed": 330700000
+    },
+    {
+      "week": "2025-11-23",
+      "category": "TV (Non-English)",
+      "hours_viewed": 206000000
+    },
+    {
+      "week": "2025-11-30",
+      "category": "Films (English)",
+      "hours_viewed": 145400000
+    },
+    {
+      "week": "2025-11-30",
+      "category": "Films (Non-English)",
+      "hours_viewed": 33400000
+    },
+    {
+      "week": "2025-11-30",
+      "category": "TV (English)",
+      "hours_viewed": 621700000
+    },
+    {
+      "week": "2025-11-30",
+      "category": "TV (Non-English)",
+      "hours_viewed": 134800000
+    },
+    {
+      "week": "2025-12-07",
+      "category": "Films (English)",
+      "hours_viewed": 114500000
+    },
+    {
+      "week": "2025-12-07",
+      "category": "Films (Non-English)",
+      "hours_viewed": 90300000
+    },
+    {
+      "week": "2025-12-07",
+      "category": "TV (English)",
+      "hours_viewed": 506900000
+    },
+    {
+      "week": "2025-12-07",
+      "category": "TV (Non-English)",
+      "hours_viewed": 120000000
+    },
+    {
+      "week": "2025-12-14",
+      "category": "Films (English)",
+      "hours_viewed": 154800000
+    },
+    {
+      "week": "2025-12-14",
+      "category": "Films (Non-English)",
+      "hours_viewed": 41800000
+    },
+    {
+      "week": "2025-12-14",
+      "category": "TV (English)",
+      "hours_viewed": 398300000
+    },
+    {
+      "week": "2025-12-14",
+      "category": "TV (Non-English)",
+      "hours_viewed": 210900000
+    },
+    {
+      "week": "2025-12-21",
+      "category": "Films (English)",
+      "hours_viewed": 132300000
+    },
+    {
+      "week": "2025-12-21",
+      "category": "Films (Non-English)",
+      "hours_viewed": 84200000
+    },
+    {
+      "week": "2025-12-21",
+      "category": "TV (English)",
+      "hours_viewed": 340200000
+    },
+    {
+      "week": "2025-12-21",
+      "category": "TV (Non-English)",
+      "hours_viewed": 197900000
+    },
+    {
+      "week": "2025-12-28",
+      "category": "Films (English)",
+      "hours_viewed": 138800000
+    },
+    {
+      "week": "2025-12-28",
+      "category": "Films (Non-English)",
+      "hours_viewed": 102900000
+    },
+    {
+      "week": "2025-12-28",
+      "category": "TV (English)",
+      "hours_viewed": 548600000
+    },
+    {
+      "week": "2025-12-28",
+      "category": "TV (Non-English)",
+      "hours_viewed": 192800000
+    },
+    {
+      "week": "2026-01-04",
+      "category": "Films (English)",
+      "hours_viewed": 119400000
+    },
+    {
+      "week": "2026-01-04",
+      "category": "Films (Non-English)",
+      "hours_viewed": 55000000
+    },
+    {
+      "week": "2026-01-04",
+      "category": "TV (English)",
+      "hours_viewed": 659500000
+    },
+    {
+      "week": "2026-01-04",
+      "category": "TV (Non-English)",
+      "hours_viewed": 168900000
+    },
+    {
+      "week": "2026-01-11",
+      "category": "Films (English)",
+      "hours_viewed": 115600000
+    },
+    {
+      "week": "2026-01-11",
+      "category": "Films (Non-English)",
+      "hours_viewed": 48900000
+    },
+    {
+      "week": "2026-01-11",
+      "category": "TV (English)",
+      "hours_viewed": 514600000
+    },
+    {
+      "week": "2026-01-11",
+      "category": "TV (Non-English)",
+      "hours_viewed": 134300000
+    },
+    {
+      "week": "2026-01-18",
+      "category": "Films (English)",
+      "hours_viewed": 183200000
+    },
+    {
+      "week": "2026-01-18",
+      "category": "Films (Non-English)",
+      "hours_viewed": 31900000
+    },
+    {
+      "week": "2026-01-18",
+      "category": "TV (English)",
+      "hours_viewed": 368300000
+    },
+    {
+      "week": "2026-01-18",
+      "category": "TV (Non-English)",
+      "hours_viewed": 185200000
+    },
+    {
+      "week": "2026-01-25",
+      "category": "Films (English)",
+      "hours_viewed": 199900000
+    },
+    {
+      "week": "2026-01-25",
+      "category": "Films (Non-English)",
+      "hours_viewed": 34300000
+    },
+    {
+      "week": "2026-01-25",
+      "category": "TV (English)",
+      "hours_viewed": 275300000
+    },
+    {
+      "week": "2026-01-25",
+      "category": "TV (Non-English)",
+      "hours_viewed": 225400000
+    },
+    {
+      "week": "2026-02-01",
+      "category": "Films (English)",
+      "hours_viewed": 116000000
+    },
+    {
+      "week": "2026-02-01",
+      "category": "Films (Non-English)",
+      "hours_viewed": 75600000
+    },
+    {
+      "week": "2026-02-01",
+      "category": "TV (English)",
+      "hours_viewed": 366600000
+    },
+    {
+      "week": "2026-02-01",
+      "category": "TV (Non-English)",
+      "hours_viewed": 142600000
+    },
+    {
+      "week": "2026-02-08",
+      "category": "Films (English)",
+      "hours_viewed": 88900000
+    },
+    {
+      "week": "2026-02-08",
+      "category": "Films (Non-English)",
+      "hours_viewed": 73100000
+    },
+    {
+      "week": "2026-02-08",
+      "category": "TV (English)",
+      "hours_viewed": 322300000
+    },
+    {
+      "week": "2026-02-08",
+      "category": "TV (Non-English)",
+      "hours_viewed": 150600000
+    },
+    {
+      "week": "2026-02-15",
+      "category": "Films (English)",
+      "hours_viewed": 98800000
+    },
+    {
+      "week": "2026-02-15",
+      "category": "Films (Non-English)",
+      "hours_viewed": 63500000
+    },
+    {
+      "week": "2026-02-15",
+      "category": "TV (English)",
+      "hours_viewed": 248100000
+    },
+    {
+      "week": "2026-02-15",
+      "category": "TV (Non-English)",
+      "hours_viewed": 205300000
+    },
+    {
+      "week": "2026-02-22",
+      "category": "Films (English)",
+      "hours_viewed": 85700000
+    },
+    {
+      "week": "2026-02-22",
+      "category": "Films (Non-English)",
+      "hours_viewed": 64100000
+    },
+    {
+      "week": "2026-02-22",
+      "category": "TV (English)",
+      "hours_viewed": 294400000
+    },
+    {
+      "week": "2026-02-22",
+      "category": "TV (Non-English)",
+      "hours_viewed": 190100000
+    },
+    {
+      "week": "2026-03-01",
+      "category": "Films (English)",
+      "hours_viewed": 67000000
+    },
+    {
+      "week": "2026-03-01",
+      "category": "Films (Non-English)",
+      "hours_viewed": 75300000
+    },
+    {
+      "week": "2026-03-01",
+      "category": "TV (English)",
+      "hours_viewed": 482000000
+    },
+    {
+      "week": "2026-03-01",
+      "category": "TV (Non-English)",
+      "hours_viewed": 124600000
+    },
+    {
+      "week": "2026-03-08",
+      "category": "Films (English)",
+      "hours_viewed": 137600000
+    },
+    {
+      "week": "2026-03-08",
+      "category": "Films (Non-English)",
+      "hours_viewed": 46700000
+    },
+    {
+      "week": "2026-03-08",
+      "category": "TV (English)",
+      "hours_viewed": 318900000
+    },
+    {
+      "week": "2026-03-08",
+      "category": "TV (Non-English)",
+      "hours_viewed": 113100000
+    },
+    {
+      "week": "2026-03-15",
+      "category": "Films (English)",
+      "hours_viewed": 140500000
+    },
+    {
+      "week": "2026-03-15",
+      "category": "Films (Non-English)",
+      "hours_viewed": 38700000
+    },
+    {
+      "week": "2026-03-15",
+      "category": "TV (English)",
+      "hours_viewed": 378300000
+    },
+    {
+      "week": "2026-03-15",
+      "category": "TV (Non-English)",
+      "hours_viewed": 136600000
+    },
+    {
+      "week": "2026-03-22",
+      "category": "Films (English)",
+      "hours_viewed": 136400000
+    },
+    {
+      "week": "2026-03-22",
+      "category": "Films (Non-English)",
+      "hours_viewed": 44900000
+    },
+    {
+      "week": "2026-03-22",
+      "category": "TV (English)",
+      "hours_viewed": 352600000
+    },
+    {
+      "week": "2026-03-22",
+      "category": "TV (Non-English)",
+      "hours_viewed": 147100000
+    },
+    {
+      "week": "2026-03-29",
+      "category": "Films (English)",
+      "hours_viewed": 108900000
+    },
+    {
+      "week": "2026-03-29",
+      "category": "Films (Non-English)",
+      "hours_viewed": 58900000
+    },
+    {
+      "week": "2026-03-29",
+      "category": "TV (English)",
+      "hours_viewed": 250400000
+    },
+    {
+      "week": "2026-03-29",
+      "category": "TV (Non-English)",
+      "hours_viewed": 175000000
+    },
+    {
+      "week": "2026-04-05",
+      "category": "Films (English)",
+      "hours_viewed": 101400000
+    },
+    {
+      "week": "2026-04-05",
+      "category": "Films (Non-English)",
+      "hours_viewed": 95200000
+    },
+    {
+      "week": "2026-04-05",
+      "category": "TV (English)",
+      "hours_viewed": 238900000
+    },
+    {
+      "week": "2026-04-05",
+      "category": "TV (Non-English)",
+      "hours_viewed": 202800000
+    },
+    {
+      "week": "2026-04-12",
+      "category": "Films (English)",
+      "hours_viewed": 128400000
+    },
+    {
+      "week": "2026-04-12",
+      "category": "Films (Non-English)",
+      "hours_viewed": 55900000
+    },
+    {
+      "week": "2026-04-12",
+      "category": "TV (English)",
+      "hours_viewed": 180700000
+    },
+    {
+      "week": "2026-04-12",
+      "category": "TV (Non-English)",
+      "hours_viewed": 181400000
+    }
+  ],
+  "top_year": [
+    {
+      "title": "Stranger Things",
+      "category": "TV (English)",
+      "total_hours": 2877000000,
+      "total_views": 369000000,
+      "weeks_charted": 14,
+      "best_rank": 1
+    },
+    {
+      "title": "Wednesday",
+      "category": "TV (English)",
+      "total_hours": 1124900000,
+      "total_views": 197600000,
+      "weeks_charted": 12,
+      "best_rank": 1
+    },
+    {
+      "title": "Squid Game",
+      "category": "TV (Non-English)",
+      "total_hours": 1030300000,
+      "total_views": 163000000,
+      "weeks_charted": 9,
+      "best_rank": 1
+    },
+    {
+      "title": "KPop Demon Hunters",
+      "category": "Films (English)",
+      "total_hours": 1008000000,
+      "total_views": 604500000,
+      "weeks_charted": 43,
+      "best_rank": 1
+    },
+    {
+      "title": "Bridgerton",
+      "category": "TV (English)",
+      "total_hours": 955100000,
+      "total_views": 149000000,
+      "weeks_charted": 9,
+      "best_rank": 1
+    },
+    {
+      "title": "Ginny & Georgia",
+      "category": "TV (English)",
+      "total_hours": 768000000,
+      "total_views": 75100000,
+      "weeks_charted": 6,
+      "best_rank": 1
+    },
+    {
+      "title": "Bon Appétit, Your Majesty",
+      "category": "TV (Non-English)",
+      "total_hours": 511900000,
+      "total_views": 48100000,
+      "weeks_charted": 10,
+      "best_rank": 1
+    },
+    {
+      "title": "ONE PIECE",
+      "category": "TV (English)",
+      "total_hours": 400400000,
+      "total_views": 50100000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "HIS & HERS",
+      "category": "TV (English)",
+      "total_hours": 395200000,
+      "total_views": 90600000,
+      "weeks_charted": 7,
+      "best_rank": 1
+    },
+    {
+      "title": "UNTAMED",
+      "category": "TV (English)",
+      "total_hours": 391100000,
+      "total_views": 80300000,
+      "weeks_charted": 7,
+      "best_rank": 1
+    },
+    {
+      "title": "Monster: The Ed Gein Story",
+      "category": "TV (English)",
+      "total_hours": 374800000,
+      "total_views": 50300000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Beauty in Black",
+      "category": "TV (English)",
+      "total_hours": 319300000,
+      "total_views": 32500000,
+      "weeks_charted": 6,
+      "best_rank": 3
+    },
+    {
+      "title": "Dynamite Kiss",
+      "category": "TV (Non-English)",
+      "total_hours": 314600000,
+      "total_views": 37100000,
+      "weeks_charted": 9,
+      "best_rank": 1
+    },
+    {
+      "title": "You",
+      "category": "TV (English)",
+      "total_hours": 297600000,
+      "total_views": 35900000,
+      "weeks_charted": 4,
+      "best_rank": 1
+    },
+    {
+      "title": "My Life With the Walter Boys",
+      "category": "TV (English)",
+      "total_hours": 291700000,
+      "total_views": 38900000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "The Night Agent",
+      "category": "TV (English)",
+      "total_hours": 279500000,
+      "total_views": 32300000,
+      "weeks_charted": 4,
+      "best_rank": 2
+    },
+    {
+      "title": "Can This Love Be Translated?",
+      "category": "TV (Non-English)",
+      "total_hours": 271000000,
+      "total_views": 20600000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Sirens",
+      "category": "TV (English)",
+      "total_hours": 267700000,
+      "total_views": 56500000,
+      "weeks_charted": 8,
+      "best_rank": 1
+    },
+    {
+      "title": "The Beast in Me",
+      "category": "TV (English)",
+      "total_hours": 245200000,
+      "total_views": 37100000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Genie, Make a Wish",
+      "category": "TV (Non-English)",
+      "total_hours": 241900000,
+      "total_views": 18900000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Emily in Paris",
+      "category": "TV (English)",
+      "total_hours": 239700000,
+      "total_views": 41400000,
+      "weeks_charted": 5,
+      "best_rank": 2
+    },
+    {
+      "title": "Raw",
+      "category": "TV (English)",
+      "total_hours": 239000000,
+      "total_views": 123100000,
+      "weeks_charted": 45,
+      "best_rank": 4
+    },
+    {
+      "title": "Run Away",
+      "category": "TV (English)",
+      "total_hours": 238700000,
+      "total_views": 38000000,
+      "weeks_charted": 4,
+      "best_rank": 2
+    },
+    {
+      "title": "Frankenstein",
+      "category": "Films (English)",
+      "total_hours": 224100000,
+      "total_views": 88500000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Happy Gilmore 2",
+      "category": "Films (English)",
+      "total_hours": 223700000,
+      "total_views": 113700000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "The Lincoln Lawyer",
+      "category": "TV (English)",
+      "total_hours": 222500000,
+      "total_views": 26400000,
+      "weeks_charted": 4,
+      "best_rank": 1
+    },
+    {
+      "title": "Dept. Q",
+      "category": "TV (English)",
+      "total_hours": 222100000,
+      "total_views": 27000000,
+      "weeks_charted": 6,
+      "best_rank": 2
+    },
+    {
+      "title": "War Machine",
+      "category": "Films (English)",
+      "total_hours": 221100000,
+      "total_views": 121700000,
+      "weeks_charted": 6,
+      "best_rank": 1
+    },
+    {
+      "title": "Love Is Blind",
+      "category": "TV (English)",
+      "total_hours": 219500000,
+      "total_views": 25000000,
+      "weeks_charted": 7,
+      "best_rank": 4
+    },
+    {
+      "title": "Unspeakable Sins",
+      "category": "TV (Non-English)",
+      "total_hours": 216300000,
+      "total_views": 19400000,
+      "weeks_charted": 6,
+      "best_rank": 1
+    },
+    {
+      "title": "The Rip",
+      "category": "Films (English)",
+      "total_hours": 216000000,
+      "total_views": 114700000,
+      "weeks_charted": 7,
+      "best_rank": 1
+    },
+    {
+      "title": "Sean Combs: The Reckoning",
+      "category": "TV (English)",
+      "total_hours": 205400000,
+      "total_views": 49700000,
+      "weeks_charted": 4,
+      "best_rank": 2
+    },
+    {
+      "title": "Beyond the Bar",
+      "category": "TV (Non-English)",
+      "total_hours": 202000000,
+      "total_views": 24300000,
+      "weeks_charted": 7,
+      "best_rank": 2
+    },
+    {
+      "title": "The Waterfront",
+      "category": "TV (English)",
+      "total_hours": 200100000,
+      "total_views": 31200000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Wayward",
+      "category": "TV (English)",
+      "total_hours": 197000000,
+      "total_views": 33200000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "STRAW",
+      "category": "Films (English)",
+      "total_hours": 191300000,
+      "total_views": 106300000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Ransom Canyon",
+      "category": "TV (English)",
+      "total_hours": 183600000,
+      "total_views": 23300000,
+      "weeks_charted": 4,
+      "best_rank": 2
+    },
+    {
+      "title": "The Sandman",
+      "category": "TV (English)",
+      "total_hours": 178200000,
+      "total_views": 24700000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    },
+    {
+      "title": "Pursuit of Jade",
+      "category": "TV (Non-English)",
+      "total_hours": 177800000,
+      "total_views": 7000000,
+      "weeks_charted": 4,
+      "best_rank": 5
+    },
+    {
+      "title": "Alice in Borderland",
+      "category": "TV (Non-English)",
+      "total_hours": 177400000,
+      "total_views": 26600000,
+      "weeks_charted": 5,
+      "best_rank": 1
+    }
+  ]
+}
