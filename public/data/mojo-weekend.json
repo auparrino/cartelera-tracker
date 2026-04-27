@@ -246,7 +246,7 @@
     },
     {
       "rank": 21,
-      "rank_last_week": "26",
+      "rank_last_week": "27",
       "title": "Steal This Story, Please!",
       "weekend_gross_usd": 64350,
       "change_vs_lw_pct": -0.2,
@@ -270,7 +270,7 @@
     },
     {
       "rank": 23,
-      "rank_last_week": "38",
+      "rank_last_week": "39",
       "title": "Blue Heron",
       "weekend_gross_usd": 52300,
       "change_vs_lw_pct": 195.4,
@@ -282,7 +282,7 @@
     },
     {
       "rank": 24,
-      "rank_last_week": "33",
+      "rank_last_week": "34",
       "title": "Erupcja",
       "weekend_gross_usd": 30249,
       "change_vs_lw_pct": 17.9,
@@ -294,7 +294,7 @@
     },
     {
       "rank": 25,
-      "rank_last_week": "29",
+      "rank_last_week": "30",
       "title": "The Stranger",
       "weekend_gross_usd": 25050,
       "change_vs_lw_pct": -53.2,
@@ -318,7 +318,19 @@
     },
     {
       "rank": 27,
-      "rank_last_week": "35",
+      "rank_last_week": "29",
+      "title": "Fireflies at El Mozote",
+      "weekend_gross_usd": 10307,
+      "change_vs_lw_pct": -81.2,
+      "theaters": 21,
+      "theaters_change": -18,
+      "average_per_theater_usd": 490,
+      "total_domestic_usd": 80172,
+      "weeks_in_release": 2
+    },
+    {
+      "rank": 28,
+      "rank_last_week": "36",
       "title": "Mad Bills to Pay: (or Destiny, dile que no soy malo)",
       "weekend_gross_usd": 7830,
       "change_vs_lw_pct": -66.0,
@@ -329,8 +341,20 @@
       "weeks_in_release": 2
     },
     {
-      "rank": 28,
-      "rank_last_week": "42",
+      "rank": 29,
+      "rank_last_week": null,
+      "title": "Strange Journey: The Story of Rocky Horror 2026 Re-release",
+      "weekend_gross_usd": 5526,
+      "change_vs_lw_pct": null,
+      "theaters": 27,
+      "theaters_change": null,
+      "average_per_theater_usd": 204,
+      "total_domestic_usd": 5526,
+      "weeks_in_release": 1
+    },
+    {
+      "rank": 30,
+      "rank_last_week": "43",
       "title": "Miroirs No. 3",
       "weekend_gross_usd": 5508,
       "change_vs_lw_pct": -57.4,
@@ -341,7 +365,7 @@
       "weeks_in_release": 6
     },
     {
-      "rank": 29,
+      "rank": 31,
       "rank_last_week": null,
       "title": "Natchez",
       "weekend_gross_usd": 2961,
@@ -353,8 +377,8 @@
       "weeks_in_release": 25
     },
     {
-      "rank": 30,
-      "rank_last_week": "51",
+      "rank": 32,
+      "rank_last_week": "52",
       "title": "Kontinental '25",
       "weekend_gross_usd": 2211,
       "change_vs_lw_pct": -28.5,
@@ -365,8 +389,8 @@
       "weeks_in_release": 5
     },
     {
-      "rank": 31,
-      "rank_last_week": "54",
+      "rank": 33,
+      "rank_last_week": "55",
       "title": "John Lilly and the Earth Coincidence Control Office",
       "weekend_gross_usd": 1022,
       "change_vs_lw_pct": -51.6,

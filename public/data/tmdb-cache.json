@@ -4406,5 +4406,43 @@
     ],
     "release_date": "2025-01-31",
     "studio": "Independents"
+  },
+  "movie::Fireflies at El Mozote": {
+    "resolved": true,
+    "tmdb_id": 1015154,
+    "kind": "movie",
+    "title": "Fireflies at El Mozote",
+    "production_companies": [
+      {
+        "id": 35625,
+        "logo_path": "/zxIrXuRMBmsXf7XpouDrF0P4RjI.png",
+        "name": "Premiere Entertainment Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 231386,
+        "logo_path": "/4WS75ndvhPMm7Rj2RFZnFYwBS2o.png",
+        "name": "Magenta Light Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 2448,
+        "logo_path": "/5sHdaGheYOw2qA20fewRVGDM4Xk.png",
+        "name": "Yari Film Group",
+        "origin_country": "US"
+      }
+    ],
+    "original_language": "en",
+    "genres": [
+      "Acción",
+      "Drama",
+      "Historia",
+      "Bélica"
+    ],
+    "release_date": "2025-12-11",
+    "studio": "Independents"
+  },
+  "movie::Strange Journey: The Story of Rocky Horror 2026 Re-release": {
+    "resolved": false
   }
 }
