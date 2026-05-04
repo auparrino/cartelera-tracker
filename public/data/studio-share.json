@@ -3,98 +3,107 @@
   "share": {
     "by_country_films": {
       "Argentina": {
-        "Sony": 14,
-        "Independents": 33,
-        "Paramount": 5,
-        "Universal/NBC": 3
+        "Independents": 39,
+        "Disney": 8,
+        "Sony": 4,
+        "Paramount": 3,
+        "Universal/NBC": 1
       },
       "Uruguay": {
-        "Sony": 16,
-        "Independents": 32,
-        "Paramount": 5,
-        "Universal/NBC": 2
+        "Independents": 40,
+        "Disney": 8,
+        "Sony": 4,
+        "Paramount": 3
       },
       "Paraguay": {
-        "Sony": 16,
-        "Independents": 27,
-        "Paramount": 8,
-        "Universal/NBC": 4
+        "Independents": 41,
+        "Disney": 8,
+        "Sony": 5,
+        "Paramount": 1
       },
       "Chile": {
-        "Sony": 16,
-        "Independents": 25,
-        "Paramount": 9,
-        "Universal/NBC": 5
+        "Independents": 34,
+        "Disney": 8,
+        "Sony": 6,
+        "Universal/NBC": 4,
+        "Paramount": 3
       },
       "Brazil": {
-        "Sony": 17,
-        "Universal/NBC": 9,
-        "Paramount": 11,
-        "Independents": 18
+        "Independents": 38,
+        "Sony": 10,
+        "Universal/NBC": 5,
+        "Paramount": 2
       },
       "Mexico": {
-        "Sony": 23,
-        "Universal/NBC": 10,
-        "Paramount": 9,
-        "Independents": 13
+        "Independents": 31,
+        "Sony": 10,
+        "Universal/NBC": 6,
+        "Disney": 4,
+        "Paramount": 3,
+        "Warner": 1
       },
       "Colombia": {
-        "Sony": 15,
-        "Paramount": 11,
-        "Independents": 22,
-        "Universal/NBC": 7
+        "Independents": 38,
+        "Disney": 8,
+        "Sony": 5,
+        "Universal/NBC": 3,
+        "Warner": 1
       },
       "Peru": {
-        "Sony": 17,
-        "Paramount": 11,
-        "Universal/NBC": 8,
-        "Independents": 19
+        "Independents": 31,
+        "Sony": 7,
+        "Disney": 5,
+        "Universal/NBC": 2
       }
     },
     "by_country_tv": {
       "Argentina": {
-        "Independents": 46,
-        "Paramount": 9
+        "Independents": 48,
+        "Sony": 7
       },
       "Uruguay": {
-        "Independents": 52,
-        "Paramount": 3
+        "Independents": 45,
+        "Sony": 8,
+        "Warner": 2
       },
       "Paraguay": {
-        "Paramount": 15,
-        "Independents": 40
+        "Sony": 10,
+        "Independents": 42,
+        "Warner": 3
       },
       "Chile": {
-        "Paramount": 17,
-        "Independents": 38
+        "Independents": 45,
+        "Sony": 8,
+        "Warner": 2
       },
       "Brazil": {
-        "Independents": 40,
-        "Paramount": 15
+        "Sony": 10,
+        "Independents": 43,
+        "Warner": 2
       },
       "Mexico": {
-        "Paramount": 13,
-        "Independents": 42
+        "Independents": 49,
+        "Sony": 6
       },
       "Colombia": {
-        "Paramount": 17,
-        "Independents": 38
+        "Independents": 46,
+        "Sony": 9
       },
       "Peru": {
-        "Paramount": 23,
-        "Independents": 29,
-        "Netflix Originals": 3
+        "Independents": 42,
+        "Sony": 9,
+        "Warner": 3,
+        "Paramount": 1
       }
     },
     "ultracine_ar_weeks_at_1": {},
     "ultracine_ar_espectadores": {},
     "mojo_us_gross": {
-      "Independents": 120362914,
-      "Universal/NBC": 22820000,
-      "Warner": 5630000,
-      "Disney": 1959000,
-      "Paramount": 67000,
-      "Sony": 2961
+      "Disney": 77774000,
+      "Independents": 78021056,
+      "Universal/NBC": 12390000,
+      "Warner": 2230000,
+      "Sony": 1019
     },
     "ultracine_weekly_studio": []
   }
